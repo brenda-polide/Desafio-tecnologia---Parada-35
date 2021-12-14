@@ -1,0 +1,2047 @@
+<!DOCTYPE html>
+<html class="capricho" dir="ltr" lang="pt-BR">
+ <head>
+  <!-- Início do Objeto de dados -->
+  <script>
+   var customData = {"tag":[],"editoria":[],"edicao":[],"programa":"","oferecimento":"","campanha-publicitaria":"","nome-blog":"","tipo-pagina":"Evento","status-pagina":"Publicada","data-publicacao":"11/09/2018","hora-publicacao":"09:00","data-atualizacao":"13/12/2021","hora-atualizacao":"09:48","autor":[],"editor":"","status_pagina":"publish","autor_sem_pagina":"","autor_com_pagina":"","ultima_revisao":"Isabella Otto"};
+  </script>
+  <!-- Fim do Objeto de dados -->
+  <script>
+   var ajaxurl = "https:\/\/capricho.abril.com.br\/wp-admin\/admin-ajax.php";
+  </script>
+  <meta content="max-image-preview:large" name="robots"/>
+  <!-- Jetpack Site Verification Tags -->
+  <meta content="ZRbLdF6qDCI0177vrn-cF5DMipS9avQBd-8x_thwfl0" name="google-site-verification"/>
+  <meta content="C645D529E7A5AD4759D8FFF5F2010C3A" name="msvalidate.01"/>
+  <link href="//ads.rubiconproject.com" rel="preconnect"/>
+  <link href="//optimized-by.rubiconproject.com" rel="preconnect"/>
+  <link href="//www.googletagservices.com" rel="preconnect"/>
+  <link href="//partner.googleadservices.com" rel="preconnect"/>
+  <link href="//fonts.googleapis.com" rel="preconnect"/>
+  <link href="//fonts.gstatic.com" rel="preconnect"/>
+  <link href="//www.assine.abril.com.br" rel="preconnect"/>
+  <link href="//r-login.wordpress.com" rel="preconnect"/>
+  <link href="//www.google-analytics.com" rel="preconnect"/>
+  <link href="//px.moatads.com" rel="preconnect"/>
+  <link href="//www.googletagmanager.com" rel="preconnect"/>
+  <link href="//static.criteo.net" rel="preconnect"/>
+  <link href="//securepubads.g.doubleclick.net" rel="preconnect"/>
+  <link href="//cdn.jsdelivr.net" rel="preconnect"/>
+  <link href="//fastlane.rubiconproject.com" rel="preconnect"/>
+  <link href="//ib.adnxs.com" rel="preconnect"/>
+  <link href="//adserver-us.adtech.advertising.com" rel="preconnect"/>
+  <link href="//a.teads.tv" rel="preconnect"/>
+  <link href="//t.teads.tv" rel="preconnect"/>
+  <link href=" ?quality=85&amp;strip=info&amp;resize=680,453" rel="preload"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta charset="utf-8"/>
+  <meta content="initial-scale=1,user-scalable=yes,width=device-width" name="viewport"/>
+  <title>
+   Horóscopo do dia, previsões de cada signo e combinações | Capricho
+  </title>
+  <meta content="Horóscopo Capricho: leia a previsão do seu signo aqui na CH! Horóscopo do dia, semanal, mensal e anual. Confira o perfil de cada signo, combinações de signo e muito mais!" name="description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Capricho" property="og:site_name"/>
+  <meta content="https://capricho.abril.com.br/horoscopo/" property="og:url"/>
+  <meta content="Horóscopo do dia, previsões de cada signo e combinações" name="og:title"/>
+  <meta content="Horóscopo Capricho: leia a previsão do seu signo aqui na CH! Horóscopo do dia, semanal, mensal e anual. Confira o perfil de cada signo, combinações de signo e muito mais!" name="og:description"/>
+  <meta content="https://capricho.abril.com.br/wp-content/uploads/2017/05/imagemdestacada_padrao_capricho.jpg?quality=85&amp;strip=info" name="og:image"/>
+  <meta content="@capricho" name="twitter:site"/>
+  <meta content="Horóscopo do dia, previsões de cada signo e combinações" name="twitter:title"/>
+  <meta content="Horóscopo Capricho: leia a previsão do seu signo aqui na CH! Horóscopo do dia, semanal, mensal e anual. Confira o perfil de cada signo, combinações de signo e muito mais!" name="twitter:description"/>
+  <meta content="https://capricho.abril.com.br/wp-content/uploads/2017/05/imagemdestacada_padrao_capricho.jpg?quality=85&amp;strip=info" name="twitter:image"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="49941245251" property="fb:admins"/>
+  <meta content="49941245251" property="fb:pages"/>
+  <link href="//ajax.googleapis.com" rel="dns-prefetch">
+   <link href="//fonts.googleapis.com" rel="dns-prefetch">
+    <link href="//s.w.org" rel="dns-prefetch">
+     <link href="https://capricho.abril.com.br/horoscopo/" rel="canonical">
+      <link href="https://capricho.abril.com.br/horoscopo/pagina/2/" rel="next">
+       <script type="text/cjs">
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TT2LLMT');
+       </script>
+       <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebPage"}
+       </script>
+       <link href="https://capricho.abril.com.br/_static/??-eJylktFuwjAMRX9oadSCJvGA9i2Za1qPJI7sdIh9PYGqEwM2LdujHZ0T+yb2kAxwzBizDZNJfhooqn3DnBzszaZpbeB+8qiW4o4iZTQKwt4v9bEB1Sd75Vkk7lXIm5tKii2z2gJZdHr8YA5NoHhnySMGXLDgNKN0F+odY89i9UAJ5SH66wG+tqo8IwsrcOIr0Wfv52XAJSEYuSQIt6TZFeLOZ6iI8P8DAosD963uYeROFfMc1yDUV0OXhaqp84T11Hzgh9TXsyOH8rURMv3lZk+aq6HkhvkVXsK2fV5t1t26W7Un7cFYqg==" id="all-css-0" media="all" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans%3Awght%40100%3B400%3B500%3B700&amp;display=swap&amp;ver=5.8.2" id="fonts-dm-sans-css" media="all" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css2?family=Spartan%3Awght%40400%3B500%3B700%3B900&amp;display=swap&amp;ver=5.8.2" id="fonts-spartan-css" media="all" rel="stylesheet">
+          <link href="https://capricho.abril.com.br/_static/??-eJytkt1uwjAMhV9oJmIDtF5Me5aQeiQjf7JdCm9PFmjF1iKxaTeR7ByfY32J6jOYFAWjKLEYkJXekvMQNAvSs2I5eVwY5id1T2p0JmdsUtl3OxdZDQ3IlNrOSOnwIG4Pox6MHRWThMHrMvW9sokSm5RLABKnqAlrwlhB3Ro+qJg96Bz0HlkSOWSw6IuV0sx43T0wzIN42OyAsU2k2Duzv5xQIf6n498gTqD2rt2h3LzZz6tf5QgeBXrSuSKdtO5wnf9g89rQjZGfKFkXtM1iWfe/1l8j7+FtuXlpVq/NulmfAdo5IG8=" id="all-css-4" media="all" rel="stylesheet" type="text/css">
+           <script id="custom_js-js" src="https://capricho.abril.com.br/wp-content/themes/abril-capricho/customTargeting.js?ver=1.1">
+           </script>
+           <style type="text/css">
+            img#wpstats{display:none}
+           </style>
+           <script>
+            var id_analytics_brand = "UA-11036964-1";
+           </script>
+           <meta content="49941245251" property="fb:pages">
+            <script>
+             var lgpd_brand = "capricho";
+            </script>
+            <script>
+             var dados_gallery = [];
+            </script>
+            <link href="https://capricho.abril.com.br/wp-content/uploads/2020/09/cropped-fav_transparente-1.png?w=32" rel="icon" sizes="32x32">
+             <link href="https://capricho.abril.com.br/wp-content/uploads/2020/09/cropped-fav_transparente-1.png?w=192" rel="icon" sizes="192x192">
+              <link href="https://capricho.abril.com.br/wp-content/uploads/2020/09/cropped-fav_transparente-1.png?w=180" rel="apple-touch-icon">
+               <meta content="https://capricho.abril.com.br/wp-content/uploads/2020/09/cropped-fav_transparente-1.png?w=270" name="msapplication-TileImage">
+                <style id="wp-custom-css" type="text/css">
+                 /*
+Bem-vindo ao CSS Personalizado!
+
+Para saber como isso funciona, veja http://wp.me/PEmnE-Bt
+*/
+.block.listagem .card .media.left,.block.politica .card .media.left {max-height:200px;}
+
+.horoscopo-widget .modulo-troca .signos {
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+}
+
+/*
+	CSS Migrated from Jetpack:
+*/
+
+/*
+Bem-vindo ao CSS Personalizado!
+
+Para saber como isso funciona, veja http://wp.me/PEmnE-Bt
+*/
+.horoscopo-widget .modulo-troca .signos {
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+}
+
+.content {
+	background: transparent;
+}
+
+.page-id-417318 .category-list h1.page-title {
+	display: none;
+}
+
+.row.personare-api-buttons img {
+  max-width: 60px;
+  height: auto;
+}
+/* HOT FIX MENU */
+.fixed header .sub-header .social-media-top.f-social::before {
+    background-color: #f6cbea;
+}
+
+/* .fixed .f-social a[href*="pinterest"], footer .f-social a[href*="pinterest"] {
+    -webkit-mask-image: url("/wp-content/themes/abril-master2/assets/img/pinterest.svg");
+    mask-image: url("/wp-content/themes/abril-master2/assets/img/pinterest.svg");
+    background: #e74545;
+	width: 24px;
+height: 27px;
+} */
+
+.produtos-ch .produto .caixa-lojas ul li {
+    padding-left: 20px;
+}
+.searchOpen .sub-header .search-area form {
+    top: 84px;
+}
+
+@media(max-width:991px) {
+	.single-post .post .media-open, .post .featured-media, .post .wp-caption {margin-left:0;}
+}
+.block.politica .card.d .media.left {
+	width: 300px !important;
+	height: 200px !important}
+
+.block.politica .card.b .media {	width: 300px !important;
+	height: 200px !important}
+                </style>
+                <script type="text/javascript">
+                 (function () {
+            window.universal_variable = window.universal_variable || {};
+            window.universal_variable.dfp = window.universal_variable.dfp || {};
+            window.uolads = window.uolads || [];
+        })();
+                </script>
+                <script async="" src="//tm.jsuol.com.br/uoltm.js?id=esxrrw" type="text/javascript">
+                </script>
+               </meta>
+              </link>
+             </link>
+            </link>
+           </meta>
+          </link>
+         </link>
+        </link>
+       </link>
+      </link>
+     </link>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="archive post-type-archive post-type-archive-horoscopo site breaking-news-first breaking-news-image">
+  <!-- pushnews disabled -->
+  <header>
+   <div class="sub-header container">
+    <div class="row">
+     <nav class="social-media-top f-social">
+      <ul class="container">
+       <div class="menu-social-media-container">
+        <ul class="menu" id="menu-social-media">
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11" id="menu-item-11">
+          <a class="menu-image-title-after" href="https://www.facebook.com/capricho/">
+           <span class="menu-image-title">
+            Facebook
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13" id="menu-item-13">
+          <a class="menu-image-title-after" href="https://twitter.com/capricho">
+           <span class="menu-image-title">
+            Twitter
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14" id="menu-item-14">
+          <a class="menu-image-title-after" href="https://instagram.com/capricho">
+           <span class="menu-image-title">
+            Instagram
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100653" id="menu-item-100653">
+          <a class="menu-image-title-after" href="https://www.youtube.com/user/capricho">
+           <span class="menu-image-title">
+            Youtube
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100652" id="menu-item-100652">
+          <a class="menu-image-title-after" href="https://pinterest.com/capricho/">
+           <span class="menu-image-title">
+            Pinterest
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </ul>
+      <ul class="btn-media-top">
+       <li>
+        <a class="hide-s" href="http://www.assine.abril.com.br/novoassine/home.html?origem=sr_ch_topo&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_topo&amp;origem=sr_ch_topo&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_topo_site_desktop" target="_blank">
+         Assinar
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <div class="menu-button col-s-3">
+      <button class="menuOpener">
+       <i class="icon menu">
+       </i>
+       <span class="hide-s">
+        Menu
+       </span>
+      </button>
+     </div>
+     <div class="brand-logo col-s-6">
+      <a class="brand" href="https://capricho.abril.com.br">
+       <svg height="61.036" viewbox="0 0 171.635 61.036" width="171.635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <defs>
+         <clippath id="clip-path">
+          <path clip-rule="evenodd" d="M102.237-141.022a3.163,3.163,0,0,1-.583.415Zm62.622,5.25-.059-.031-.061-.028a12.678,12.678,0,0,0-9.1-.3l-.129.043-.186.076a16.883,16.883,0,0,0-4.719,3.047,5.464,5.464,0,0,0-.785-1.28,5.522,5.522,0,0,0-4-1.964h-.051l-4.89,0a5.307,5.307,0,0,0-2.6.72c-1.335-4.869-5.467-12.141-18.275-9.637a37.087,37.087,0,0,0-8.981,3.25l-1.835.918c-.174.09-.335.17-.5.256,0-.1.026-.2.026-.3a7.9,7.9,0,0,0-.267-2.042,8.547,8.547,0,0,0-4.24-5.212,9.283,9.283,0,0,0-11.259,1.917l.1-.081a9.046,9.046,0,0,0-2.509,6.373,10.807,10.807,0,0,0,.105,1.479c0,.006,0,.008,0,.015,0-.017-.08-.79-.08-.79s.119,1.092.12,1.13l.022.089a13.054,13.054,0,0,0,.693,2.314,9.257,9.257,0,0,0-1.469-.2l-.059,0H77.644a5.519,5.519,0,0,0-3.763,1.57,11.253,11.253,0,0,0-5.309-1.76l-.059,0H56.283a5.62,5.62,0,0,0-5.043,3.42l-.027.064c-.028-.189-.048-.328-.057-.4-.45-4.2-3.073-4.826-4.6-4.826a4.742,4.742,0,0,0-2.133.491c.009-.146.044-.283.044-.431a6.982,6.982,0,0,0-4.186-6.416l.005-.011-.028-.013c-.811-.409-7.3-3.471-16.953-2.154a31.9,31.9,0,0,0-5.029,1.356c-7.3,2.638-13.167,9.376-15.32,17.6a26.648,26.648,0,0,0-.953,6.5c0,.007-.007.674-.007.674,0,9.358,4.347,15.052,8.007,18.188a19.358,19.358,0,0,0,9.075,4.184l.072.015,1.4.232.11.014.708.084.039,0a19.846,19.846,0,0,0,4.319-.1l.123-.016.159-.03.11-.023c8.154-1.606,12.8-8.045,14.031-9.98.5-.788.878-1.4,1.176-1.9.478,2.951,1.089,6.725,1.089,6.725l.041.21a4.693,4.693,0,0,0,4.854,4.193l9.89.026a5.561,5.561,0,0,0,3.507-1.078,5.832,5.832,0,0,0,2.266-4.082l.837-6.307a20.227,20.227,0,0,0,8.341-2.032c-.6,4.379-1.107,8.045-1.107,8.045a5.543,5.543,0,0,0-.046.721,4.868,4.868,0,0,0,.86,2.848,5.207,5.207,0,0,0,4.425,2.083l2.237-.01h.153a6.105,6.105,0,0,0,3.443-1.108,5.9,5.9,0,0,0,2.219-4.047c0,.006.186-1.4.4-3.018.459.321.9.649,1.307.987l.1.083.161.116c1.213.837,2.655,1.959,4.433,3.446a56.028,56.028,0,0,0,28.912,12.162c10.61,1.217,20.713-.86,28.816-5.86a5.357,5.357,0,0,0,.807.417,5.434,5.434,0,0,0,4.191-.04,5.445,5.445,0,0,0,2.94-3c.032-.082.057-.165.085-.248a14.313,14.313,0,0,0,3.907-.6l.215-.063.156-.064c4.494-1.836,10.146-6.324,11.55-17.283l.011-.1.091-.719a31.782,31.782,0,0,0,.215-3.608c0-9.379-4.729-13.312-7.776-14.871Z" data-name="Path 42" fill="none" id="Path_42" transform="translate(-2 149.392)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-2">
+          <path clip-rule="evenodd" d="M144.07-106.8H131.927a1.574,1.574,0,0,0-1.314.933l-.523,1.257c-.215.514.026.932.539.932h1.351a.866.866,0,0,1,.73.873l-3.378,24.54s-.359,1.064,1.249,1.064,2.306-.007,2.306-.007,1.49.24,1.73-1.634c.095-.741,1.2-9.015,1.2-9.015.118-.591.476-.72.687-.742l.151,0,.007,0v0c5.7-.036,12.7-.429,13.627-8.981C151.259-106.538,144.07-106.8,144.07-106.8Zm.349,9.61c-.755,6.964-5.835,7.074-7.631,6.957a.883.883,0,0,1-.585-.814l1.778-13.166a1.631,1.631,0,0,1,1.3-.913c.089-.015-.023.034.065,0,2.057-.016,5.772,1.525,5.075,7.937Z" data-name="Path 45" fill="#d5534d" id="Path_45" transform="translate(-129.297 106.801)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-3">
+          <path clip-rule="evenodd" d="M230.577-133.131c0,.026.011.053.016.079s.006.074.013.112l.012.012c.72,3.544,3.078,6.185,11.691,4.5,5-.978,9.022-2.853,14.09-3.844.454-.089.916-.158,1.384-.213,3.633-.2,7.846.673,8.1,6.4l.013.347a22.052,22.052,0,0,1-.318,3.363c.01.059-3.363,24.721-3.363,24.721s-.359,1.064,1.249,1.064,2.307-.007,2.307-.007,1.49.24,1.73-1.633c.078-.609.834-6.3,1.1-8.311l-.019-.012s.184-1.4.449-3.415c.142-.349.351-.782.939-.782h5.278a.711.711,0,0,1,.674.769v0l-1.7,12.324s-.36,1.064,1.249,1.064,2.306-.007,2.306-.007,1.49.24,1.73-1.633c.079-.609.834-6.3,1.1-8.311l-.018-.012s.211-1.608.507-3.855c0-.009,0-.018,0-.027l.4-2.969c.588-4.438,1.276-9.591,1.452-10.7.321-2.034-1.313-2.084-1.313-2.084v0h-4.817a1.574,1.574,0,0,0-1.315.933L274.986-124c-.215.514.028.932.539.932h1.351a.867.867,0,0,1,.731.873l-1.177,8.55-.038.156a1.175,1.175,0,0,1-1.052.818H270.3v0a.82.82,0,0,1-.813-.768c.3-2.227.613-4.7.863-6.759,1.055-5.683.009-8.021.078-7.872-1.733-7.016-7.155-8.394-13.711-7.112-6.2,1.213-9.065,4.714-15.468,5.966-6.349,1.241-9.209-.725-9.947-3.931h0a5.3,5.3,0,0,1,1.5-4.4,3.71,3.71,0,0,1,1.411-.71c.022-.006.04-.008.063-.014q.189-.049.359-.078a2.647,2.647,0,0,1,1.514.122,1.058,1.058,0,0,1,.345.215s.005,0,.006.006.021.022.033.032a1.058,1.058,0,0,1,.233.386,1.052,1.052,0,0,1,.061.344,1.041,1.041,0,0,1-.621.979l-.023.018a2.725,2.725,0,0,0-1.4,2.382,2.727,2.727,0,0,0,2.727,2.727A2.717,2.717,0,0,0,239.5-132l.009,0s.031-.036.081-.1a2.723,2.723,0,0,0,.359-.541c.705-1.215,1.624-4.16-1.816-6.14a5.188,5.188,0,0,0-6.124,1.109,5.262,5.262,0,0,0-1.426,4.539h-.006" data-name="Path 47" fill="#d5534d" id="Path_47" transform="translate(-230.522 139.352)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-4">
+          <path clip-rule="evenodd" d="M377.535-107.284a8.79,8.79,0,0,0-6.092-.128c-4.061,1.75-7.779,5.731-8.833,13.957h.006c-.035.252-.072.5-.1.768-1,8.729,1.955,12.854,5.774,14.613l0,0a8.724,8.724,0,0,0,2.688.473,10.472,10.472,0,0,0,2.776-.432v0c4.154-1.7,8-5.671,9.072-14.058h-.006c.035-.252.071-.5.1-.766C383.886-101.291,381.165-105.427,377.535-107.284Zm.049,14.837c-.172,1.139-.393,2.235-.651,3.273-1.256,5.266-3.522,9.015-5.6,8.976a1.758,1.758,0,0,1-.351-.013c-2.565-.388-3.767-6.5-2.686-13.641s4.037-12.623,6.6-12.235,3.767,6.5,2.685,13.64Z" data-name="Path 49" fill="#d5534d" id="Path_49" transform="translate(-362.319 107.907)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-5">
+          <path clip-rule="evenodd" d="M260-75.256l-.033-.057a1.611,1.611,0,0,0-.259-.4c-.487-.557-1.584-1.311-3.311-.207-.116.075-.228.154-.339.237a.168.168,0,0,0,.005-.017,38.262,38.262,0,0,1-9.46,4.543h0c-12.929,3.616-26.183-.1-36.353-6.049,0,0,0-.013.007-.018-.47-.257-.945-.539-1.413-.832a2.824,2.824,0,0,0,.123-.539c.078-.609.834-6.3,1.1-8.311l-.018-.012s.211-1.608.507-3.855l.4-3c.588-4.438,1.276-9.591,1.452-10.7.321-2.034-1.313-2.084-1.313-2.084v0h-4.817a1.575,1.575,0,0,0-1.315.933l-.523,1.257c-.215.514.027.932.539.932h1.351a.867.867,0,0,1,.731.873l-2.921,21.21c-.452-.354-.9-.709-1.327-1.068a68.011,68.011,0,0,0-7.951-6.061c4.136-.641,7.846-2.6,8.5-8.665.972-8.957-6.217-9.22-6.217-9.22H185.007a1.574,1.574,0,0,0-1.314.933l-.523,1.257c-.215.514.026.933.539.933h1.35a.865.865,0,0,1,.731.873l-3.378,24.54s-.36,1.065,1.249,1.065,2.306-.008,2.306-.008,1.49.24,1.73-1.634c.085-.67.993-7.494,1.166-8.8l.252.013a29.315,29.315,0,0,1,6.87,4.158c1.252.864,2.772,2.037,4.708,3.657,13.178,11.027,38.053,17.319,55.506,4.286a1.2,1.2,0,0,1,.208-.124.6.6,0,0,1,.725.206.552.552,0,0,1,.1.376l.006.015a1.443,1.443,0,0,0,.9,1.31,1.442,1.442,0,0,0,1.878-.8,1.437,1.437,0,0,0-.03-1.145ZM189.867-89.8a.88.88,0,0,1-.584-.813l1.778-13.166a1.628,1.628,0,0,1,1.3-.913c.088-.015-.023.034.065,0,2.057-.017,5.772,1.525,5.075,7.937-.755,6.963-5.834,7.074-7.631,6.957Z" data-name="Path 51" fill="#d5534d" id="Path_51" transform="translate(-182.377 106.562)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-6">
+          <path clip-rule="evenodd" d="M278.748-106.088l-.044-.029v0l-.094-.053h0a11.358,11.358,0,0,0-5.566-1.356,6.747,6.747,0,0,0-1.795.191c-5.29.718-11.19,4.091-12.52,14.417h.006c-.034.242-.069.485-.1.737-1.355,11.86,5.129,14.886,10.8,15.133a.788.788,0,0,0,.122.013l.082,0,.1,0v-.009c.874-.042,3.933-.232,5.674-1.763.317-.292,1.83-2.256.811-2.511a3.632,3.632,0,0,0-1.1-.11,1.648,1.648,0,0,0-1.4.714A3.816,3.816,0,0,1,272.5-79.59a1.32,1.32,0,0,1-.156.1l-.005,0c-.094.037-.188.074-.283.105a4.831,4.831,0,0,1-2.323.212c-4.257-.691-6.73-7.269-5.525-14.692s5.632-12.88,9.889-12.19a4.592,4.592,0,0,1,1.29.415h0a.875.875,0,0,1,.4.822c0,.1,0,.213,0,.332h.009c0,.009,0,.017,0,.025a1.928,1.928,0,0,0,1.921,1.936,1.928,1.928,0,0,0,1.921-1.936,1.934,1.934,0,0,0-.886-1.627" data-name="Path 53" fill="#d5534d" id="Path_53" transform="translate(-258.453 107.53)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-7">
+          <path clip-rule="evenodd" d="M55.344-94.558c-.224-1.476-4.8-29.392-4.8-29.392s-.062-.4-.382-.4c-.23,0-.3.074-.543.323,0,0-3.433,3.51-3.628,3.748a6.047,6.047,0,0,0-.745,1.366h0s-1.719,4.679-4.348,11.739c-.811,2.1-3.893,10.955-10.62,13.224a11.056,11.056,0,0,1-6.527.057c-6.86-2.333-9.559-13.005-6.181-22.935,3.054-8.975,10.126-15.254,16.522-14.582h0a12.469,12.469,0,0,1,1.508.235h0a4.035,4.035,0,0,1,2.214,1.041h.009a6.55,6.55,0,0,1,.759,2.22c.007,0,.014.006.021.011a2.692,2.692,0,0,0,2.678,2.428,2.693,2.693,0,0,0,2.692-2.692,2.691,2.691,0,0,0-1.71-2.5,1.144,1.144,0,0,0-.108-.052s-5.837-2.978-14.713-1.742a29.609,29.609,0,0,0-4.049,1.122c-5.944,2.133-10.924,7.606-12.806,14.8a22.483,22.483,0,0,0-.816,5.53c-.159,7.142,2.638,12.279,6.587,15.643a15.261,15.261,0,0,0,7.218,3.245c.4.085.808.147,1.211.2.217.03.435.057.653.078l.02,0a15.975,15.975,0,0,0,3.381-.091l.112-.023c5.812-1.142,9.637-5.463,11.335-8.129a43.857,43.857,0,0,0,2.385-4.1,1.415,1.415,0,0,1,1.544-.921h2.686c1.209,0,1.365.646,1.469,1.283l1.749,10.23a1.1,1.1,0,0,0,1.173.79h3.259C55.1-92.8,55.571-93.064,55.344-94.558ZM46.869-107.02H44.834c-1.2,0-.823-1.131-.823-1.131.22-.684,2.1-6.849,2.283-7.466l.2.042,1.128,7.418c.257,1.181-.75,1.137-.75,1.137Z" data-name="Path 55" fill="#d5534d" id="Path_55" transform="translate(-9.767 132.765)">
+          </path>
+         </clippath>
+        </defs>
+        <g data-name="Group 2260" id="Group_2260" transform="translate(0.5 0.512)">
+         <g clip-path="url(#clip-path)" data-name="Group 31" id="Group_31" transform="translate(0 0)">
+          <path d="M-3-90.348H171.678v-64.043H-3Z" data-name="Path 41" fill="none" id="Path_41" transform="translate(0.978 152.37)">
+          </path>
+         </g>
+         <g data-name="Group 32" id="Group_32" transform="translate(0 0)">
+          <path d="M100.237,8.37a3.167,3.167,0,0,1-.583.415Zm62.622,5.25-.059-.031-.061-.028a12.678,12.678,0,0,0-9.1-.3l-.129.043-.186.076a16.884,16.884,0,0,0-4.719,3.047,5.4,5.4,0,0,0-4.787-3.244h-.051l-4.89,0a5.307,5.307,0,0,0-2.6.72c-1.335-4.869-5.467-12.141-18.275-9.637a37.089,37.089,0,0,0-8.981,3.25l-1.835.918c-.174.09-.335.17-.5.256,0-.1.026-.2.026-.3a7.9,7.9,0,0,0-.267-2.042,8.547,8.547,0,0,0-4.24-5.212,9.283,9.283,0,0,0-11.26,1.917l.1-.081a9.046,9.046,0,0,0-2.509,6.373,10.812,10.812,0,0,0,.105,1.479c0,.006,0,.008,0,.015,0-.017-.08-.79-.08-.79s.119,1.092.12,1.13l.022.089a13.052,13.052,0,0,0,.693,2.314,9.26,9.26,0,0,0-1.469-.2l-.059,0H75.644a5.519,5.519,0,0,0-3.763,1.57,11.253,11.253,0,0,0-5.309-1.76l-.059,0H54.283A5.62,5.62,0,0,0,49.24,16.6l-.027.064c-.028-.189-.048-.328-.057-.4-.45-4.2-3.073-4.826-4.6-4.826a4.742,4.742,0,0,0-2.133.491c.009-.146.044-.283.044-.431a6.982,6.982,0,0,0-4.186-6.416l.005-.011-.028-.013c-.811-.409-7.3-3.471-16.953-2.154a31.9,31.9,0,0,0-5.029,1.356C8.979,6.9,3.113,13.641.961,21.862a26.647,26.647,0,0,0-.953,6.5c0,.007-.007.674-.007.674C0,38.39,4.347,44.085,8.007,47.221A19.358,19.358,0,0,0,17.082,51.4l.072.015,1.4.232.11.014.708.084.039,0a19.846,19.846,0,0,0,4.319-.1l.123-.016.159-.03.11-.023c8.154-1.606,12.8-8.045,14.031-9.98.5-.788.878-1.4,1.176-1.9.478,2.951,1.089,6.724,1.089,6.724l.041.21a4.693,4.693,0,0,0,4.854,4.193l9.89.026a5.561,5.561,0,0,0,3.507-1.078,5.832,5.832,0,0,0,2.266-4.082l.837-6.307a20.227,20.227,0,0,0,8.341-2.032c-.6,4.379-1.107,8.045-1.107,8.045A5.542,5.542,0,0,0,69,46.12a4.868,4.868,0,0,0,.86,2.848,5.207,5.207,0,0,0,4.425,2.083l2.237-.01h.153a6.105,6.105,0,0,0,3.443-1.108,5.9,5.9,0,0,0,2.219-4.047c0,.006.186-1.4.4-3.018.459.321.9.649,1.307.987l.1.083.161.116c1.213.837,2.655,1.959,4.433,3.446A56.028,56.028,0,0,0,117.652,59.66c10.61,1.217,20.713-.86,28.816-5.86a5.356,5.356,0,0,0,.807.417,5.481,5.481,0,0,0,7.131-3.036c.032-.082.057-.165.085-.248a14.313,14.313,0,0,0,3.907-.6l.215-.063.156-.064c4.494-1.836,10.146-6.324,11.55-17.283l.011-.1.091-.719a31.789,31.789,0,0,0,.215-3.608C170.635,19.113,165.906,15.179,162.859,13.62Z" data-name="Path 43" fill="none" id="Path_43" stroke="#d5534d" stroke-width="1" transform="translate(0 0)">
+          </path>
+         </g>
+         <g data-name="Group 2261" id="Group_2261" transform="translate(3.14 4.059)">
+          <g clip-path="url(#clip-path-2)" data-name="Group 33" id="Group_33" transform="translate(48.33 13.161)">
+           <path d="M124.3-78.154H149.42V-111.8H124.3Z" data-name="Path 44" fill="#d5534d" id="Path_44" transform="translate(-126.319 109.779)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-3)" data-name="Group 34" id="Group_34" transform="translate(89.259)">
+           <path d="M225.521-97.544h56.516v-46.808H225.521Z" data-name="Path 46" fill="#d5534d" id="Path_46" transform="translate(-227.543 142.33)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-4)" data-name="Group 35" id="Group_35" transform="translate(142.549 12.714)">
+           <path d="M357.319-78.56h24.843v-34.347H357.319Z" data-name="Path 48" fill="#d5534d" id="Path_48" transform="translate(-359.341 110.885)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-5)" data-name="Group 36" id="Group_36" transform="translate(69.792 13.258)">
+           <path d="M177.377-68.749h81.794v-42.812H177.377Z" data-name="Path 50" fill="#d5534d" id="Path_50" transform="translate(-179.399 109.54)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-6)" data-name="Group 37" id="Group_37" transform="translate(100.552 12.867)">
+           <path d="M253.453-78h25.225V-112.53H253.453Z" data-name="Path 52" fill="#d5534d" id="Path_52" transform="translate(-255.474 110.508)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-7)" data-name="Group 38" id="Group_38" transform="translate(0 2.663)">
+           <path d="M4.767-92.748H54.446v-45.017H4.767Z" data-name="Path 54" fill="#d5534d" id="Path_54" transform="translate(-6.789 135.744)">
+           </path>
+          </g>
+         </g>
+        </g>
+       </svg>
+      </a>
+     </div>
+     <div class="search-area col-s-3">
+      <a class="hide-s" href="http://www.assine.abril.com.br/novoassine/home.html?origem=sr_ch_topo&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_topo&amp;origem=sr_ch_topo&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_topo_site_desktop" target="_blank">
+       Assine Abril
+      </a>
+      <button class="searchOpener">
+       <span class="hide-s">
+        Buscar
+       </span>
+       <i class="icon search">
+       </i>
+      </button>
+      <form action="https://capricho.abril.com.br/" method="GET">
+       <input aria-label="Buscar" id="search" name="s" placeholder="Buscar..." type="text" value=""/>
+       <button>
+        <span class="icon search hide-s">
+        </span>
+        <span class="hide-l">
+         Buscar
+        </span>
+       </button>
+       <input name="orderby" type="hidden" value="date"/>
+      </form>
+     </div>
+     <nav class="main-menu col-s-12 hide-s">
+      <div class="menu-menu-destaques-menu-header-e-menu-lateral-completo-container">
+       <ul class="menu" id="menu-menu-destaques-menu-header-e-menu-lateral-completo">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-478409" id="menu-item-478409">
+         <a class="menu-image-title-after" href="https://capricho.abril.com.br/comportamento/">
+          <span class="menu-image-title">
+           Comportamento
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-478407" id="menu-item-478407">
+         <a class="menu-image-title-after" href="https://capricho.abril.com.br/entretenimento/">
+          <span class="menu-image-title">
+           Entretenimento
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-475336" id="menu-item-475336">
+         <a class="menu-image-title-after" href="https://capricho.abril.com.br/./moda/">
+          <span class="menu-image-title">
+           Moda
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-475338" id="menu-item-475338">
+         <a class="menu-image-title-after" href="https://capricho.abril.com.br/./beleza/">
+          <span class="menu-image-title">
+           Beleza
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475340" id="menu-item-475340">
+         <a class="menu-image-title-after" href="https://capricho.abril.com.br/horoscopo">
+          <span class="menu-image-title">
+           Horóscopo
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475341" id="menu-item-475341">
+         <a class="menu-image-title-after" href="https://capricho.abril.com.br/produtos-ch/">
+          <span class="menu-image-title">
+           Produtos Capricho
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+   </div>
+   <aside class="sidebarMenu">
+    <ul>
+     <li>
+      <a aria-label="BRAND LOGO" class="brand" href="https://capricho.abril.com.br">
+       <svg height="61.036" viewbox="0 0 171.635 61.036" width="171.635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <defs>
+         <clippath id="clip-path">
+          <path clip-rule="evenodd" d="M102.237-141.022a3.163,3.163,0,0,1-.583.415Zm62.622,5.25-.059-.031-.061-.028a12.678,12.678,0,0,0-9.1-.3l-.129.043-.186.076a16.883,16.883,0,0,0-4.719,3.047,5.464,5.464,0,0,0-.785-1.28,5.522,5.522,0,0,0-4-1.964h-.051l-4.89,0a5.307,5.307,0,0,0-2.6.72c-1.335-4.869-5.467-12.141-18.275-9.637a37.087,37.087,0,0,0-8.981,3.25l-1.835.918c-.174.09-.335.17-.5.256,0-.1.026-.2.026-.3a7.9,7.9,0,0,0-.267-2.042,8.547,8.547,0,0,0-4.24-5.212,9.283,9.283,0,0,0-11.259,1.917l.1-.081a9.046,9.046,0,0,0-2.509,6.373,10.807,10.807,0,0,0,.105,1.479c0,.006,0,.008,0,.015,0-.017-.08-.79-.08-.79s.119,1.092.12,1.13l.022.089a13.054,13.054,0,0,0,.693,2.314,9.257,9.257,0,0,0-1.469-.2l-.059,0H77.644a5.519,5.519,0,0,0-3.763,1.57,11.253,11.253,0,0,0-5.309-1.76l-.059,0H56.283a5.62,5.62,0,0,0-5.043,3.42l-.027.064c-.028-.189-.048-.328-.057-.4-.45-4.2-3.073-4.826-4.6-4.826a4.742,4.742,0,0,0-2.133.491c.009-.146.044-.283.044-.431a6.982,6.982,0,0,0-4.186-6.416l.005-.011-.028-.013c-.811-.409-7.3-3.471-16.953-2.154a31.9,31.9,0,0,0-5.029,1.356c-7.3,2.638-13.167,9.376-15.32,17.6a26.648,26.648,0,0,0-.953,6.5c0,.007-.007.674-.007.674,0,9.358,4.347,15.052,8.007,18.188a19.358,19.358,0,0,0,9.075,4.184l.072.015,1.4.232.11.014.708.084.039,0a19.846,19.846,0,0,0,4.319-.1l.123-.016.159-.03.11-.023c8.154-1.606,12.8-8.045,14.031-9.98.5-.788.878-1.4,1.176-1.9.478,2.951,1.089,6.725,1.089,6.725l.041.21a4.693,4.693,0,0,0,4.854,4.193l9.89.026a5.561,5.561,0,0,0,3.507-1.078,5.832,5.832,0,0,0,2.266-4.082l.837-6.307a20.227,20.227,0,0,0,8.341-2.032c-.6,4.379-1.107,8.045-1.107,8.045a5.543,5.543,0,0,0-.046.721,4.868,4.868,0,0,0,.86,2.848,5.207,5.207,0,0,0,4.425,2.083l2.237-.01h.153a6.105,6.105,0,0,0,3.443-1.108,5.9,5.9,0,0,0,2.219-4.047c0,.006.186-1.4.4-3.018.459.321.9.649,1.307.987l.1.083.161.116c1.213.837,2.655,1.959,4.433,3.446a56.028,56.028,0,0,0,28.912,12.162c10.61,1.217,20.713-.86,28.816-5.86a5.357,5.357,0,0,0,.807.417,5.434,5.434,0,0,0,4.191-.04,5.445,5.445,0,0,0,2.94-3c.032-.082.057-.165.085-.248a14.313,14.313,0,0,0,3.907-.6l.215-.063.156-.064c4.494-1.836,10.146-6.324,11.55-17.283l.011-.1.091-.719a31.782,31.782,0,0,0,.215-3.608c0-9.379-4.729-13.312-7.776-14.871Z" data-name="Path 42" fill="none" id="Path_42" transform="translate(-2 149.392)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-2">
+          <path clip-rule="evenodd" d="M144.07-106.8H131.927a1.574,1.574,0,0,0-1.314.933l-.523,1.257c-.215.514.026.932.539.932h1.351a.866.866,0,0,1,.73.873l-3.378,24.54s-.359,1.064,1.249,1.064,2.306-.007,2.306-.007,1.49.24,1.73-1.634c.095-.741,1.2-9.015,1.2-9.015.118-.591.476-.72.687-.742l.151,0,.007,0v0c5.7-.036,12.7-.429,13.627-8.981C151.259-106.538,144.07-106.8,144.07-106.8Zm.349,9.61c-.755,6.964-5.835,7.074-7.631,6.957a.883.883,0,0,1-.585-.814l1.778-13.166a1.631,1.631,0,0,1,1.3-.913c.089-.015-.023.034.065,0,2.057-.016,5.772,1.525,5.075,7.937Z" data-name="Path 45" fill="#d5534d" id="Path_45" transform="translate(-129.297 106.801)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-3">
+          <path clip-rule="evenodd" d="M230.577-133.131c0,.026.011.053.016.079s.006.074.013.112l.012.012c.72,3.544,3.078,6.185,11.691,4.5,5-.978,9.022-2.853,14.09-3.844.454-.089.916-.158,1.384-.213,3.633-.2,7.846.673,8.1,6.4l.013.347a22.052,22.052,0,0,1-.318,3.363c.01.059-3.363,24.721-3.363,24.721s-.359,1.064,1.249,1.064,2.307-.007,2.307-.007,1.49.24,1.73-1.633c.078-.609.834-6.3,1.1-8.311l-.019-.012s.184-1.4.449-3.415c.142-.349.351-.782.939-.782h5.278a.711.711,0,0,1,.674.769v0l-1.7,12.324s-.36,1.064,1.249,1.064,2.306-.007,2.306-.007,1.49.24,1.73-1.633c.079-.609.834-6.3,1.1-8.311l-.018-.012s.211-1.608.507-3.855c0-.009,0-.018,0-.027l.4-2.969c.588-4.438,1.276-9.591,1.452-10.7.321-2.034-1.313-2.084-1.313-2.084v0h-4.817a1.574,1.574,0,0,0-1.315.933L274.986-124c-.215.514.028.932.539.932h1.351a.867.867,0,0,1,.731.873l-1.177,8.55-.038.156a1.175,1.175,0,0,1-1.052.818H270.3v0a.82.82,0,0,1-.813-.768c.3-2.227.613-4.7.863-6.759,1.055-5.683.009-8.021.078-7.872-1.733-7.016-7.155-8.394-13.711-7.112-6.2,1.213-9.065,4.714-15.468,5.966-6.349,1.241-9.209-.725-9.947-3.931h0a5.3,5.3,0,0,1,1.5-4.4,3.71,3.71,0,0,1,1.411-.71c.022-.006.04-.008.063-.014q.189-.049.359-.078a2.647,2.647,0,0,1,1.514.122,1.058,1.058,0,0,1,.345.215s.005,0,.006.006.021.022.033.032a1.058,1.058,0,0,1,.233.386,1.052,1.052,0,0,1,.061.344,1.041,1.041,0,0,1-.621.979l-.023.018a2.725,2.725,0,0,0-1.4,2.382,2.727,2.727,0,0,0,2.727,2.727A2.717,2.717,0,0,0,239.5-132l.009,0s.031-.036.081-.1a2.723,2.723,0,0,0,.359-.541c.705-1.215,1.624-4.16-1.816-6.14a5.188,5.188,0,0,0-6.124,1.109,5.262,5.262,0,0,0-1.426,4.539h-.006" data-name="Path 47" fill="#d5534d" id="Path_47" transform="translate(-230.522 139.352)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-4">
+          <path clip-rule="evenodd" d="M377.535-107.284a8.79,8.79,0,0,0-6.092-.128c-4.061,1.75-7.779,5.731-8.833,13.957h.006c-.035.252-.072.5-.1.768-1,8.729,1.955,12.854,5.774,14.613l0,0a8.724,8.724,0,0,0,2.688.473,10.472,10.472,0,0,0,2.776-.432v0c4.154-1.7,8-5.671,9.072-14.058h-.006c.035-.252.071-.5.1-.766C383.886-101.291,381.165-105.427,377.535-107.284Zm.049,14.837c-.172,1.139-.393,2.235-.651,3.273-1.256,5.266-3.522,9.015-5.6,8.976a1.758,1.758,0,0,1-.351-.013c-2.565-.388-3.767-6.5-2.686-13.641s4.037-12.623,6.6-12.235,3.767,6.5,2.685,13.64Z" data-name="Path 49" fill="#d5534d" id="Path_49" transform="translate(-362.319 107.907)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-5">
+          <path clip-rule="evenodd" d="M260-75.256l-.033-.057a1.611,1.611,0,0,0-.259-.4c-.487-.557-1.584-1.311-3.311-.207-.116.075-.228.154-.339.237a.168.168,0,0,0,.005-.017,38.262,38.262,0,0,1-9.46,4.543h0c-12.929,3.616-26.183-.1-36.353-6.049,0,0,0-.013.007-.018-.47-.257-.945-.539-1.413-.832a2.824,2.824,0,0,0,.123-.539c.078-.609.834-6.3,1.1-8.311l-.018-.012s.211-1.608.507-3.855l.4-3c.588-4.438,1.276-9.591,1.452-10.7.321-2.034-1.313-2.084-1.313-2.084v0h-4.817a1.575,1.575,0,0,0-1.315.933l-.523,1.257c-.215.514.027.932.539.932h1.351a.867.867,0,0,1,.731.873l-2.921,21.21c-.452-.354-.9-.709-1.327-1.068a68.011,68.011,0,0,0-7.951-6.061c4.136-.641,7.846-2.6,8.5-8.665.972-8.957-6.217-9.22-6.217-9.22H185.007a1.574,1.574,0,0,0-1.314.933l-.523,1.257c-.215.514.026.933.539.933h1.35a.865.865,0,0,1,.731.873l-3.378,24.54s-.36,1.065,1.249,1.065,2.306-.008,2.306-.008,1.49.24,1.73-1.634c.085-.67.993-7.494,1.166-8.8l.252.013a29.315,29.315,0,0,1,6.87,4.158c1.252.864,2.772,2.037,4.708,3.657,13.178,11.027,38.053,17.319,55.506,4.286a1.2,1.2,0,0,1,.208-.124.6.6,0,0,1,.725.206.552.552,0,0,1,.1.376l.006.015a1.443,1.443,0,0,0,.9,1.31,1.442,1.442,0,0,0,1.878-.8,1.437,1.437,0,0,0-.03-1.145ZM189.867-89.8a.88.88,0,0,1-.584-.813l1.778-13.166a1.628,1.628,0,0,1,1.3-.913c.088-.015-.023.034.065,0,2.057-.017,5.772,1.525,5.075,7.937-.755,6.963-5.834,7.074-7.631,6.957Z" data-name="Path 51" fill="#d5534d" id="Path_51" transform="translate(-182.377 106.562)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-6">
+          <path clip-rule="evenodd" d="M278.748-106.088l-.044-.029v0l-.094-.053h0a11.358,11.358,0,0,0-5.566-1.356,6.747,6.747,0,0,0-1.795.191c-5.29.718-11.19,4.091-12.52,14.417h.006c-.034.242-.069.485-.1.737-1.355,11.86,5.129,14.886,10.8,15.133a.788.788,0,0,0,.122.013l.082,0,.1,0v-.009c.874-.042,3.933-.232,5.674-1.763.317-.292,1.83-2.256.811-2.511a3.632,3.632,0,0,0-1.1-.11,1.648,1.648,0,0,0-1.4.714A3.816,3.816,0,0,1,272.5-79.59a1.32,1.32,0,0,1-.156.1l-.005,0c-.094.037-.188.074-.283.105a4.831,4.831,0,0,1-2.323.212c-4.257-.691-6.73-7.269-5.525-14.692s5.632-12.88,9.889-12.19a4.592,4.592,0,0,1,1.29.415h0a.875.875,0,0,1,.4.822c0,.1,0,.213,0,.332h.009c0,.009,0,.017,0,.025a1.928,1.928,0,0,0,1.921,1.936,1.928,1.928,0,0,0,1.921-1.936,1.934,1.934,0,0,0-.886-1.627" data-name="Path 53" fill="#d5534d" id="Path_53" transform="translate(-258.453 107.53)">
+          </path>
+         </clippath>
+         <clippath id="clip-path-7">
+          <path clip-rule="evenodd" d="M55.344-94.558c-.224-1.476-4.8-29.392-4.8-29.392s-.062-.4-.382-.4c-.23,0-.3.074-.543.323,0,0-3.433,3.51-3.628,3.748a6.047,6.047,0,0,0-.745,1.366h0s-1.719,4.679-4.348,11.739c-.811,2.1-3.893,10.955-10.62,13.224a11.056,11.056,0,0,1-6.527.057c-6.86-2.333-9.559-13.005-6.181-22.935,3.054-8.975,10.126-15.254,16.522-14.582h0a12.469,12.469,0,0,1,1.508.235h0a4.035,4.035,0,0,1,2.214,1.041h.009a6.55,6.55,0,0,1,.759,2.22c.007,0,.014.006.021.011a2.692,2.692,0,0,0,2.678,2.428,2.693,2.693,0,0,0,2.692-2.692,2.691,2.691,0,0,0-1.71-2.5,1.144,1.144,0,0,0-.108-.052s-5.837-2.978-14.713-1.742a29.609,29.609,0,0,0-4.049,1.122c-5.944,2.133-10.924,7.606-12.806,14.8a22.483,22.483,0,0,0-.816,5.53c-.159,7.142,2.638,12.279,6.587,15.643a15.261,15.261,0,0,0,7.218,3.245c.4.085.808.147,1.211.2.217.03.435.057.653.078l.02,0a15.975,15.975,0,0,0,3.381-.091l.112-.023c5.812-1.142,9.637-5.463,11.335-8.129a43.857,43.857,0,0,0,2.385-4.1,1.415,1.415,0,0,1,1.544-.921h2.686c1.209,0,1.365.646,1.469,1.283l1.749,10.23a1.1,1.1,0,0,0,1.173.79h3.259C55.1-92.8,55.571-93.064,55.344-94.558ZM46.869-107.02H44.834c-1.2,0-.823-1.131-.823-1.131.22-.684,2.1-6.849,2.283-7.466l.2.042,1.128,7.418c.257,1.181-.75,1.137-.75,1.137Z" data-name="Path 55" fill="#d5534d" id="Path_55" transform="translate(-9.767 132.765)">
+          </path>
+         </clippath>
+        </defs>
+        <g data-name="Group 2260" id="Group_2260" transform="translate(0.5 0.512)">
+         <g clip-path="url(#clip-path)" data-name="Group 31" id="Group_31" transform="translate(0 0)">
+          <path d="M-3-90.348H171.678v-64.043H-3Z" data-name="Path 41" fill="none" id="Path_41" transform="translate(0.978 152.37)">
+          </path>
+         </g>
+         <g data-name="Group 32" id="Group_32" transform="translate(0 0)">
+          <path d="M100.237,8.37a3.167,3.167,0,0,1-.583.415Zm62.622,5.25-.059-.031-.061-.028a12.678,12.678,0,0,0-9.1-.3l-.129.043-.186.076a16.884,16.884,0,0,0-4.719,3.047,5.4,5.4,0,0,0-4.787-3.244h-.051l-4.89,0a5.307,5.307,0,0,0-2.6.72c-1.335-4.869-5.467-12.141-18.275-9.637a37.089,37.089,0,0,0-8.981,3.25l-1.835.918c-.174.09-.335.17-.5.256,0-.1.026-.2.026-.3a7.9,7.9,0,0,0-.267-2.042,8.547,8.547,0,0,0-4.24-5.212,9.283,9.283,0,0,0-11.26,1.917l.1-.081a9.046,9.046,0,0,0-2.509,6.373,10.812,10.812,0,0,0,.105,1.479c0,.006,0,.008,0,.015,0-.017-.08-.79-.08-.79s.119,1.092.12,1.13l.022.089a13.052,13.052,0,0,0,.693,2.314,9.26,9.26,0,0,0-1.469-.2l-.059,0H75.644a5.519,5.519,0,0,0-3.763,1.57,11.253,11.253,0,0,0-5.309-1.76l-.059,0H54.283A5.62,5.62,0,0,0,49.24,16.6l-.027.064c-.028-.189-.048-.328-.057-.4-.45-4.2-3.073-4.826-4.6-4.826a4.742,4.742,0,0,0-2.133.491c.009-.146.044-.283.044-.431a6.982,6.982,0,0,0-4.186-6.416l.005-.011-.028-.013c-.811-.409-7.3-3.471-16.953-2.154a31.9,31.9,0,0,0-5.029,1.356C8.979,6.9,3.113,13.641.961,21.862a26.647,26.647,0,0,0-.953,6.5c0,.007-.007.674-.007.674C0,38.39,4.347,44.085,8.007,47.221A19.358,19.358,0,0,0,17.082,51.4l.072.015,1.4.232.11.014.708.084.039,0a19.846,19.846,0,0,0,4.319-.1l.123-.016.159-.03.11-.023c8.154-1.606,12.8-8.045,14.031-9.98.5-.788.878-1.4,1.176-1.9.478,2.951,1.089,6.724,1.089,6.724l.041.21a4.693,4.693,0,0,0,4.854,4.193l9.89.026a5.561,5.561,0,0,0,3.507-1.078,5.832,5.832,0,0,0,2.266-4.082l.837-6.307a20.227,20.227,0,0,0,8.341-2.032c-.6,4.379-1.107,8.045-1.107,8.045A5.542,5.542,0,0,0,69,46.12a4.868,4.868,0,0,0,.86,2.848,5.207,5.207,0,0,0,4.425,2.083l2.237-.01h.153a6.105,6.105,0,0,0,3.443-1.108,5.9,5.9,0,0,0,2.219-4.047c0,.006.186-1.4.4-3.018.459.321.9.649,1.307.987l.1.083.161.116c1.213.837,2.655,1.959,4.433,3.446A56.028,56.028,0,0,0,117.652,59.66c10.61,1.217,20.713-.86,28.816-5.86a5.356,5.356,0,0,0,.807.417,5.481,5.481,0,0,0,7.131-3.036c.032-.082.057-.165.085-.248a14.313,14.313,0,0,0,3.907-.6l.215-.063.156-.064c4.494-1.836,10.146-6.324,11.55-17.283l.011-.1.091-.719a31.789,31.789,0,0,0,.215-3.608C170.635,19.113,165.906,15.179,162.859,13.62Z" data-name="Path 43" fill="none" id="Path_43" stroke="#d5534d" stroke-width="1" transform="translate(0 0)">
+          </path>
+         </g>
+         <g data-name="Group 2261" id="Group_2261" transform="translate(3.14 4.059)">
+          <g clip-path="url(#clip-path-2)" data-name="Group 33" id="Group_33" transform="translate(48.33 13.161)">
+           <path d="M124.3-78.154H149.42V-111.8H124.3Z" data-name="Path 44" fill="#d5534d" id="Path_44" transform="translate(-126.319 109.779)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-3)" data-name="Group 34" id="Group_34" transform="translate(89.259)">
+           <path d="M225.521-97.544h56.516v-46.808H225.521Z" data-name="Path 46" fill="#d5534d" id="Path_46" transform="translate(-227.543 142.33)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-4)" data-name="Group 35" id="Group_35" transform="translate(142.549 12.714)">
+           <path d="M357.319-78.56h24.843v-34.347H357.319Z" data-name="Path 48" fill="#d5534d" id="Path_48" transform="translate(-359.341 110.885)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-5)" data-name="Group 36" id="Group_36" transform="translate(69.792 13.258)">
+           <path d="M177.377-68.749h81.794v-42.812H177.377Z" data-name="Path 50" fill="#d5534d" id="Path_50" transform="translate(-179.399 109.54)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-6)" data-name="Group 37" id="Group_37" transform="translate(100.552 12.867)">
+           <path d="M253.453-78h25.225V-112.53H253.453Z" data-name="Path 52" fill="#d5534d" id="Path_52" transform="translate(-255.474 110.508)">
+           </path>
+          </g>
+          <g clip-path="url(#clip-path-7)" data-name="Group 38" id="Group_38" transform="translate(0 2.663)">
+           <path d="M4.767-92.748H54.446v-45.017H4.767Z" data-name="Path 54" fill="#d5534d" id="Path_54" transform="translate(-6.789 135.744)">
+           </path>
+          </g>
+         </g>
+        </g>
+       </svg>
+      </a>
+      <span class="menuCloser">
+       ×
+      </span>
+     </li>
+     <li>
+      <a href="http://www.assine.abril.com.br/novoassine/home.html?origem=sr_ch_menu&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_menu?&amp;origem=sr_ch_menu&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_menu_site_desktop" target="_blank">
+       Assine Abril
+      </a>
+     </li>
+     <div class="userName" id="userName">
+     </div>
+     <div class="none">
+     </div>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510918" id="menu-item-510918">
+      <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/teste/">
+       <span class="menu-image-title">
+        Testes
+       </span>
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-510919" id="menu-item-510919">
+      <a class="menu-image-title-after">
+       <span class="menu-image-title">
+        Comportamento
+       </span>
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510920" id="menu-item-510920">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/saude-mental/">
+         <span class="menu-image-title">
+          Saúde Mental
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510921" id="menu-item-510921">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/feminismo/">
+         <span class="menu-image-title">
+          Feminismo
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510922" id="menu-item-510922">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/estudos/">
+         <span class="menu-image-title">
+          Estudos
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510923" id="menu-item-510923">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/relacionamentos/">
+         <span class="menu-image-title">
+          Relacionamentos
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510924" id="menu-item-510924">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/sos-sexo/">
+         <span class="menu-image-title">
+          SOS Sexo
+         </span>
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-510925" id="menu-item-510925">
+      <a class="menu-image-title-after">
+       <span class="menu-image-title">
+        Entretenimento
+       </span>
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510926" id="menu-item-510926">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/series/">
+         <span class="menu-image-title">
+          Séries
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510927" id="menu-item-510927">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/filmes/">
+         <span class="menu-image-title">
+          Filmes
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510928" id="menu-item-510928">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/musica/">
+         <span class="menu-image-title">
+          Música
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510929" id="menu-item-510929">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/livros/">
+         <span class="menu-image-title">
+          Livros
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510930" id="menu-item-510930">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/famosos/">
+         <span class="menu-image-title">
+          Famosos
+         </span>
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-510931" id="menu-item-510931">
+      <a class="menu-image-title-after">
+       <span class="menu-image-title">
+        Moda
+       </span>
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510932" id="menu-item-510932">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/alerta-de-tendencias/">
+         <span class="menu-image-title">
+          Tendências
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510933" id="menu-item-510933">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/dicas-de-looks/">
+         <span class="menu-image-title">
+          Dicas de looks
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510934" id="menu-item-510934">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/polemica-fashion/">
+         <span class="menu-image-title">
+          Polêmica fashion
+         </span>
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-510935" id="menu-item-510935">
+      <a class="menu-image-title-after">
+       <span class="menu-image-title">
+        Beleza
+       </span>
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510936" id="menu-item-510936">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/cabelo/">
+         <span class="menu-image-title">
+          Cabelo
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510937" id="menu-item-510937">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/maquiagem/">
+         <span class="menu-image-title">
+          Maquiagem
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510939" id="menu-item-510939">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/unha/">
+         <span class="menu-image-title">
+          Unha
+         </span>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510940" id="menu-item-510940">
+        <a class="menu-image-title-after" href="https://capricho.abril.com.br/noticias-sobre/pele/">
+         <span class="menu-image-title">
+          Pele
+         </span>
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-520583" id="menu-item-520583">
+      <a class="menu-image-title-after" href="https://capricho.abril.com.br/produtos-ch/">
+       <span class="menu-image-title">
+        Produtos CAPRICHO
+       </span>
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-520584" id="menu-item-520584">
+      <a class="menu-image-title-after" href="https://capricho.abril.com.br/horoscopo/">
+       <span class="menu-image-title">
+        Horóscopo
+       </span>
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-538739" id="menu-item-538739">
+      <a class="menu-image-title-after" href="https://perfil.abril.com.br/">
+       <span class="menu-image-title">
+        Minha Abril
+       </span>
+      </a>
+     </li>
+    </ul>
+   </aside>
+  </header>
+  <div class="ads fixed-ad">
+   <span class="title">
+    Publicidade
+   </span>
+   <div class="abrAD" id="banner-970x250-0-area">
+    <script>
+     window.uolads.push({ id: "banner-970x250-0-area", customTargetings: customTargeting });
+    </script>
+   </div>
+  </div>
+  <div class="container main-container category-list tag-list horoscopo-list is_post_type_archive">
+   <section class="list">
+    <header class="list-header">
+     <div class="horoscopo-cabecalho">
+      <h1>
+       <a class="horoscopo-titulo" href="https://capricho.abril.com.br/horoscopo">
+        Horóscopo
+       </a>
+      </h1>
+      <div class="patrocinio-horoscopo">
+       <span class="texto">
+        Apresentado Por
+       </span>
+      </div>
+      <ul class="regua row">
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-aries">
+         <div class="content_img aries">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-aries.png"/>
+         </div>
+         <span class="titulo">
+          Áries
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-touro">
+         <div class="content_img touro">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-touro.png"/>
+         </div>
+         <span class="titulo">
+          Touro
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-gemeos">
+         <div class="content_img gemeos">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-gemeos.png"/>
+         </div>
+         <span class="titulo">
+          Gêmeos
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-cancer">
+         <div class="content_img cancer">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-cancer.png"/>
+         </div>
+         <span class="titulo">
+          Câncer
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-leao">
+         <div class="content_img leao">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-leao.png"/>
+         </div>
+         <span class="titulo">
+          Leão
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-virgem">
+         <div class="content_img virgem">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-virgem.png"/>
+         </div>
+         <span class="titulo">
+          Virgem
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-libra">
+         <div class="content_img libra">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-libra.png"/>
+         </div>
+         <span class="titulo">
+          Libra
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-escorpiao">
+         <div class="content_img escorpiao">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-escorpiao.png"/>
+         </div>
+         <span class="titulo">
+          Escorpião
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-sagitario">
+         <div class="content_img sagitario">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-sagitario.png"/>
+         </div>
+         <span class="titulo">
+          Sagitário
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-capricornio">
+         <div class="content_img capricornio">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-capricornio.png"/>
+         </div>
+         <span class="titulo">
+          Capricórnio
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-aquario">
+         <div class="content_img aquario">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-aquario.png"/>
+         </div>
+         <span class="titulo">
+          Aquário
+         </span>
+        </a>
+       </li>
+       <li class="col-s-4 col-l-2">
+        <a href="/horoscopo/signo-peixes">
+         <div class="content_img peixes">
+          <img src="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/templates/includes/images/signos/signo-peixes.png"/>
+         </div>
+         <span class="titulo">
+          Peixes
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </header>
+    <div class="row">
+     <div class="col-s-12 col-l-9">
+      <section class="cards chamadas-content">
+       <div class="card not-loaded list-item">
+        <div class="row">
+         <div class="col-s-12 col-l-12">
+          <a href="https://capricho.abril.com.br/comportamento/horoscopo-mensal-as-previsoes-para-os-signos-em-dezembro-de-2021/">
+           <figure class="media">
+            <img src="https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho-5.jpg?quality=85&amp;strip=info"/>
+           </figure>
+          </a>
+          <span class="category">
+           Astrologia
+          </span>
+          <a href="https://capricho.abril.com.br/comportamento/horoscopo-mensal-as-previsoes-para-os-signos-em-dezembro-de-2021/">
+           <h2 class="title">
+            Horóscopo mensal: as previsões para os signos em dezembro de 2021
+           </h2>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="card not-loaded list-item">
+        <div class="row">
+         <div class="col-s-12 col-l-12">
+          <a href="https://capricho.abril.com.br/comportamento/as-previsoes-astrologicas-para-2021-para-cada-um-dos-signos/">
+           <figure class="media">
+            <img src="https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho-4.jpg?quality=85&amp;strip=info"/>
+           </figure>
+          </a>
+          <span class="category">
+           Astrologia
+          </span>
+          <a href="https://capricho.abril.com.br/comportamento/as-previsoes-astrologicas-para-2021-para-cada-um-dos-signos/">
+           <h2 class="title">
+            2021: as previsões astrológicas para cada um dos signos
+           </h2>
+          </a>
+         </div>
+        </div>
+       </div>
+      </section>
+      <section class="cards">
+       <div class="modulo-combinacao row">
+        <div class="col-s-12 col-l-4">
+         <div class="content-chamada">
+          <span class="titulo">
+           Combinação dos signos
+          </span>
+          <span class="subtitulo">
+           Será que seu signo combina com o do crush? Faça o teste e descubra
+          </span>
+         </div>
+        </div>
+        <div class="modulo-escolha col-l-6 col-s-12">
+         <div class="escolha signo-1" data-escolha="1" id="signo-1">
+          <span class="icone">
+           <span class="sombra">
+           </span>
+           <span class="icone-escolha">
+            <span class="path1">
+            </span>
+            <span class="path2">
+            </span>
+            <span class="path3">
+            </span>
+            <span class="path4">
+            </span>
+            <span class="path5">
+            </span>
+            <span class="path6">
+            </span>
+           </span>
+          </span>
+          <select class="selecione-signo selecione-1">
+           <option disabled="" selected="">
+            Selecione um signo
+           </option>
+           <option value="aries">
+            Áries
+           </option>
+           <option value="touro">
+            Touro
+           </option>
+           <option value="gemeos">
+            Gêmeos
+           </option>
+           <option value="cancer">
+            Câncer
+           </option>
+           <option value="leao">
+            Leão
+           </option>
+           <option value="virgem">
+            Virgem
+           </option>
+           <option value="libra">
+            Libra
+           </option>
+           <option value="escorpiao">
+            Escorpião
+           </option>
+           <option value="sagitario">
+            Sagitário
+           </option>
+           <option value="capricornio">
+            Capricórnio
+           </option>
+           <option value="aquario">
+            Aquário
+           </option>
+           <option value="peixes">
+            Peixes
+           </option>
+          </select>
+         </div>
+         <span class="mais">
+          +
+         </span>
+         <div class="escolha signo-2" data-escolha="2" id="signo-2">
+          <span class="icone">
+           <span class="sombra">
+           </span>
+           <span class="icone-escolha">
+            <span class="path1">
+            </span>
+            <span class="path2">
+            </span>
+            <span class="path3">
+            </span>
+            <span class="path4">
+            </span>
+            <span class="path5">
+            </span>
+            <span class="path6">
+            </span>
+           </span>
+          </span>
+          <select class="selecione-signo selecione-2">
+           <option disabled="" selected="">
+            Selecione um signo
+           </option>
+           <option value="aries">
+            Áries
+           </option>
+           <option value="touro">
+            Touro
+           </option>
+           <option value="gemeos">
+            Gêmeos
+           </option>
+           <option value="cancer">
+            Câncer
+           </option>
+           <option value="leao">
+            Leão
+           </option>
+           <option value="virgem">
+            Virgem
+           </option>
+           <option value="libra">
+            Libra
+           </option>
+           <option value="escorpiao">
+            Escorpião
+           </option>
+           <option value="sagitario">
+            Sagitário
+           </option>
+           <option value="capricornio">
+            Capricórnio
+           </option>
+           <option value="aquario">
+            Aquário
+           </option>
+           <option value="peixes">
+            Peixes
+           </option>
+          </select>
+         </div>
+         <input id="signo_slug_1" type="hidden"/>
+         <input id="signo_slug_2" type="hidden"/>
+        </div>
+        <div class="col-l-2 col-s-12 btn-content">
+         <a class="botao-combinar" href="#">
+          Pronto, combinar!
+         </a>
+        </div>
+       </div>
+       <div class="ads">
+        <div class="abrAD" data-ad-sizes="728x90" id="abrAD_leaderboard2">
+        </div>
+       </div>
+       <div id="infinite-list">
+        <div class="card not-loaded list-item" id="post-538651">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-terca-feira-14-12/">
+            <figure class="media">
+             <img alt="previsao-horoscopo-diario-01-07-2021-capricho-signos-25" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/09/previsao-horoscopo-diario-capricho-signos-25.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-terca-feira-14-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, terça-feira (14/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 13 dez 2021, 12h38 - Publicado em 13 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Touro pode viver experiências transformadoras. Para o signo de Capricórnio, o momento é ideal para refletir sobre seus desafios
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-537461">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/2022-sera-o-ano-do-amor-para-o-tarot-consulte-a-previsao-geral/">
+            <figure class="media">
+             <img alt="2022 será o ano do amor para o Tarot! Consulte a previsão geral" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=650,434 650w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=409,273 409w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1150687673.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/2022-sera-o-ano-do-amor-para-o-tarot-consulte-a-previsao-geral/">
+            <h2 class="title">
+             2022 será o ano do amor para o Tarot! Consulte a previsão geral
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             13 dez 2021, 10h38
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Na área da saúde, a pandemia também deve melhorar um pouco, mas as coisas tendem a se resolver mesmo apenas em 2023
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538649">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-segunda-feira-13-12/">
+            <figure class="media">
+             <img alt="previsao-horoscopo-diario-capricho-signos-17" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-segunda-feira-13-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, segunda-feira (13/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 10 dez 2021, 12h57 - Publicado em 12 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Os movimentos de Marte e Mercúrio influenciam nas áreas espiritual e íntima. Entenda como isso afeta você
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538721">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-semanal-a-previsao-dos-signos-de-13-a-19-de-dezembro/">
+            <figure class="media">
+             <img alt="previsao-horoscopo-diario-capricho-signos-17" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-17.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-semanal-a-previsao-dos-signos-de-13-a-19-de-dezembro/">
+            <h2 class="title">
+             Horóscopo semanal: a previsão dos signos de 13 a 19 de dezembro
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 9 dez 2021, 11h09 - Publicado em 12 dez 2021, 00h51
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            O foco será a área das amizades e o bem-estar pessoal em casa
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538647">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-domingo-12-12/">
+            <figure class="media">
+             <img alt="horoscopo-dia-previsoes-signos-capricho-9" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/08/horoscopo-dia-previsoes-signos-capricho-9.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-domingo-12-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, domingo (12/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 10 dez 2021, 11h55 - Publicado em 11 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            A pessoa de Touro precisa encarar desafios sem drama. Câncer deve evitar criar expectativas para não se frustrar
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538645">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-sabado-11-12/">
+            <figure class="media">
+             <img alt="horoscopo-dia-previsoes-signos-capricho" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/07/horoscopo-dia-previsoes-signos-capricho.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-sabado-11-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, sábado (11/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 10 dez 2021, 11h25 - Publicado em 10 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Sagitário estará motivado a atender as demandas familiares. O momento sugere que a capricorniana preserve seus interesses
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538498">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-sexta-feira-10-12/">
+            <figure class="media">
+             <img alt="Horóscopo mensal: as previsões para os signos em novembro de 2020" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/10/mountains.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/10/mountains.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/10/mountains.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/10/mountains.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/10/mountains.jpg?quality=85&amp;strip=info&amp;crop=186px%2C0px%2C1588px%2C1080px&amp;resize=680%2C453"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-sexta-feira-10-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, sexta-feira (10/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 9 dez 2021, 23h01 - Publicado em 9 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            A pessoa de Áries estará toda motivada para superar os desafios. Empatia e companheirismo são as palavras da vez para Touro
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538487">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/10-maneiras-de-usar-o-tarot-no-dia-a-dia-e-como-o-jogo-pode-te-ajudar/">
+            <figure class="media">
+             <img alt="10 maneiras de usar o Tarot no dia a dia e como o jogo pode te ajudar" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1289813539.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1289813539.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1289813539.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1289813539.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2021/12/GettyImages-1289813539.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/10-maneiras-de-usar-o-tarot-no-dia-a-dia-e-como-o-jogo-pode-te-ajudar/">
+            <h2 class="title">
+             10 maneiras de usar o Tarot no dia a dia e como o jogo pode te ajudar
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             9 dez 2021, 10h11
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Quando você precisa de um sim ou não, para saber sobre o amor, trabalho e as previsões para 2022; veja estas e outras possibilidades!
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538451">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-quinta-feira-9-12/">
+            <figure class="media">
+             <img alt="previsao-horoscopo-diario-capricho" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/07/previsao-horoscopo-diario-capricho.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-quinta-feira-9-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, quinta-feira (9/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 7 dez 2021, 15h38 - Publicado em 8 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Ei, você de Áries! Bora interagir muito em grupo? A pessoa de Câncer está com a autoconfiança lá em cima. Eba!
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="card not-loaded list-item" id="post-538369">
+         <div class="row">
+          <div class="col-s-12 col-l-9">
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-quarta-feira-8-12/">
+            <figure class="media">
+             <img alt="previsao-horoscopo-diario-capricho-signos-19" data-pin-nopin="true" data-srcset="https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=150,100 150w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=300,200 300w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=650,433 650w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=260,172 260w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=410,273 410w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=420,280 420w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=165,110 165w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=630,420 630w, https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?resize=160,107 160w" src="https://capricho.abril.com.br/wp-content/uploads/2020/08/previsao-horoscopo-diario-capricho-signos-19.jpg?quality=85&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1"/>
+            </figure>
+           </a>
+           <span class="category">
+            <a href="/comportamento">
+             Comportamento
+            </a>
+           </span>
+           <a href="https://capricho.abril.com.br/comportamento/horoscopo-do-dia-a-previsao-para-os-signos-hoje-quarta-feira-8-12/">
+            <h2 class="title">
+             Horóscopo do dia: a previsão para os signos hoje, quarta-feira (8/12)
+            </h2>
+           </a>
+           <span class="author">
+            Por
+            <strong>
+             <a class="author-element" href="https://capricho.abril.com.br/autor/personare">
+              <span class="author-element">
+               Personare
+              </span>
+             </a>
+            </strong>
+            <span>
+             Atualizado em 7 dez 2021, 10h20 - Publicado em 7 dez 2021, 23h50
+            </span>
+           </span>
+           <i class="icon share hide-l">
+           </i>
+          </div>
+          <div class="col-s-12 col-l-3">
+           <span class="description">
+            Ei, você de Virgem! Se abra a ideias quem rompam padrões! A pessoa de Sagitário estará toda segura ao falar o que pensa
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="col-s-12 col-l-3 ads-parent">
+      <div class="ads">
+       <span class="title">
+        Publicidade
+       </span>
+       <div class="abrAD" data-ad-sizes="300x250" id="abrAD_rectangle1">
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <script type="text/javascript">
+   //<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22infinite-list%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fcapricho.abril.com.br%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22click%22%2C%22wrapper%22%3Afalse%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3Atrue%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22Carregar%20mais%22%2C%22totop%22%3A%22Scroll%20back%20to%20top%22%2C%22currentday%22%3A%2207.12.21%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A1%2C%22history%22%3A%7B%22host%22%3A%22capricho.abril.com.br%22%2C%22path%22%3A%22%5C%2Fhoroscopo%5C%2Fpagina%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22post_type%22%3A%22horoscopo%22%2C%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A%22%22%2C%22author_name%22%3A%22%22%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22paged%22%3A0%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22date_query%22%3A%5B%5B%5D%2C%5B%5D%5D%2C%22posts_per_page%22%3A20%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Afalse%2C%22update_post_term_cache%22%3Atrue%2C%22lazy_load_term_meta%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%2C%22extra%22%3A%7B%22is_tag%22%3Atrue%2C%22is_category%22%3Afalse%2C%22is_admin%22%3Afalse%2C%22is_tax%22%3Afalse%7D%7D%2C%22query_before%22%3A%222021-12-14%2016%3A43%3A29%22%2C%22last_post_date%22%3A%222000-01-01%2019%3A43%3A38%22%2C%22body_class%22%3A%22infinite-scroll%22%2C%22loading_text%22%3A%22Loading%20new%20page%22%2C%22stats%22%3A%22blog%3D177107104%26host%3Dcapricho.abril.com.br%26v%3Dext%26j%3D1%3A9.1%26x_pagetype%3Dinfinite-click-jetpack%22%7D%7D' ) );
+		//]]>
+  </script>
+  <input id="horoscopo_personare_ajax_nonce" name="horoscopo_personare_ajax_nonce" type="hidden" value="ed25303928">
+   <input name="_wp_http_referer" type="hidden" value="/horoscopo/">
+    <input id="get_access_token_ajax_nonce" name="get_access_token_ajax_nonce" type="hidden" value="6d224a58c4">
+     <input name="_wp_http_referer" type="hidden" value="/horoscopo/">
+      <script>
+       var ajaxurl = "https:\/\/capricho.abril.com.br\/wp-admin\/admin-ajax.php";
+      </script>
+      <input id="abril_dv_ajax_nonce" name="abril_dv_ajax_nonce" type="hidden" value="a2a1e2adc4"/>
+      <input name="_wp_http_referer" type="hidden" value="/horoscopo/"/>
+      <script id="the-neverending-homepage-js" src="https://capricho.abril.com.br/wp-content/mu-plugins/jetpack-9.1/_inc/build/infinite-scroll/infinity.min.js?ver=9.1-is5.0.0">
+      </script>
+      <script id="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js-js" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=2.0.04">
+      </script>
+      <script id="/assets/js/cjs.js-js" src="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/cjs.js?ver=2.0.04">
+      </script>
+      <script async="" id="/js/vendor/jquery.lazysizes.min.js-js" src="https://capricho.abril.com.br/wp-content/themes/abril-master2/js/vendor/jquery.lazysizes.min.js?ver=2.0.04">
+      </script>
+      <script async="" id="/assets/js/abril_lgpd.js-js" src="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/abril_lgpd.js?ver=2.0.04">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/footer.js?ver=2.0.04" defer="" id="/assets/js/footer.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/blocks.js?ver=2.0.04" defer="" id="/assets/js/blocks.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/jquery.isinviewport.min.js?ver=2.0.04" defer="" id="/assets/js/jquery.isinviewport.min.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/our-carousel.js?ver=2.0.04" defer="" id="/assets/js/our-carousel.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/js/blocks-listagem.js?ver=2.0.04" defer="" id="/assets/js/blocks-listagem.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo-personare/js/personare-scripts-front.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo-personare/js/personare-scripts-front.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/themes/abril-capricho/plugins/capricho-products/js/abril-dv-capricho-ch-products.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/themes/abril-capricho/plugins/capricho-products/js/abril-dv-capricho-ch-products.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo-modulo-previsao-home.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo-modulo-previsao-home.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo-modulo-sinastria.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo-modulo-sinastria.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo-filtros.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/js/abril-horoscopo-filtros.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-text-wrapper/abril-text-wrapper-script.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-text-wrapper/abril-text-wrapper-script.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-lista-produtos/assets/js/abril-lista-produtos_events.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-lista-produtos/assets/js/abril-lista-produtos_events.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/abril-horoscopo-widget/js/abril-horoscopo-widget.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-horoscopo/abril-horoscopo-widget/js/abril-horoscopo-widget.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-produtos/js/easyzoom.min.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-produtos/js/easyzoom.min.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-produtos/js/abril-produtos-filtros.min.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-produtos/js/abril-produtos-filtros.min.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script data-cjssrc="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-produtos/js/abril-produtos.js?ver=2.0.04" defer="" id="https://capricho.abril.com.br/wp-content/plugins/abril-plugins/abril-produtos/js/abril-produtos.js-js" title="load-cjs-script" type="text/cjs">
+      </script>
+      <script id="script-img-cls-js" src="https://capricho.abril.com.br/wp-content/themes/abril-master2/js/img-cls-loading.js?ver=5.8.2">
+      </script>
+      <script type="text/javascript">
+       (function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["custom_js","the-neverending-homepage","https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.6.0\/jquery.min.js","\/assets\/js\/cjs.js","\/js\/vendor\/jquery.lazysizes.min.js","\/assets\/js\/abril_lgpd.js","\/assets\/js\/footer.js","\/assets\/js\/blocks.js","\/assets\/js\/jquery.isinviewport.min.js","\/assets\/js\/our-carousel.js","\/assets\/js\/blocks-listagem.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo-personare\/js\/personare-scripts-front.js","https:\/\/capricho.abril.com.br\/wp-content\/themes\/abril-capricho\/plugins\/capricho-products\/js\/abril-dv-capricho-ch-products.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo-modulo-previsao-home.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo-modulo-sinastria.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo-filtros.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-text-wrapper\/abril-text-wrapper-script.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-lista-produtos\/assets\/js\/abril-lista-produtos_events.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/abril-horoscopo-widget\/js\/abril-horoscopo-widget.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-produtos\/js\/easyzoom.min.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-produtos\/js\/abril-produtos-filtros.min.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-produtos\/js\/abril-produtos.js","script-img-cls"] );
+				extend( window.infiniteScroll.settings.styles, ["the-neverending-homepage","easyzoom-css","swiper-css","abril-prdutos-css","abril-horoscopo-css","abril-horoscopo-icones-css","abril-horoscopo-coracoes","grid-system","theme-fonts","icons-style","lgpds","home-sections","lists-subhome","pages","child_theme_styles","abril-dv-capricho-ch-products-css","horoscopo-personare-front","style-main","slick-theme-css","slick-css","abril-widget-horoscopo-css","abril-text-wrapper-styles","wp-master-theme-style","jetpack_css","fonts-dm-sans","fonts-spartan"] );
+			})();
+      </script>
+      <span aria-live="assertive" id="infinite-aria">
+      </span>
+      <script async="async" defer="defer" src="https://stats.wp.com/e-202150.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.1',blog:'177107104',post:'0',tz:'-3',srv:'capricho.abril.com.br'} ]);
+	_stq.push([ 'clickTrackerInit', '177107104', '0' ]);
+      </script>
+      <section class="sidebar-above-footer">
+       <div class="widget widget_abril_barra_assine_widget" id="abril_barra_assine_widget-2">
+        <section class="f-brands">
+         <div class="container">
+          <img alt="Assine Abril" aria-label="Assine Abril" class="lazyload" data-src="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/img/assine_logo.svg" height="35" width="205"/>
+          <div class="row">
+           <div class="col-s-6 col-l-2">
+            <h3>
+             Quatro Rodas
+            </h3>
+            <a href="https://quatrorodas.abril.com.br/ofertas?origem=sr_ch_ba_quatrorodas&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_quatrorodas" rel="noopener" style="padding: 0;" target="_blank">
+             <img alt="Quatro Rodas" class="img-responsive m-x-auto optimized lazyload" data-pin-nopin="true" data-src="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_4rodas.jpg" data-srcset="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_4rodas.jpg" height="212" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAKSURBVHicY2AAAAACAAFIr6RxAAAAAElFTkSuQmCC" style="margin-bottom: -3px;width: 100%;height: 100%;" width="161"/>
+            </a>
+            <p>
+             <span>
+              A partir de R$ 6,90/mês
+             </span>
+            </p>
+            <a href="https://quatrorodas.abril.com.br/ofertas?origem=sr_ch_ba_quatrorodas&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_quatrorodas">
+             Ver ofertas
+            </a>
+           </div>
+           <div class="col-s-6 col-l-2">
+            <h3>
+             Claudia
+            </h3>
+            <a href="https://claudia.abril.com.br/ofertas/?origem=sr_ch_ba_claudia&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_claudia" rel="noopener" style="padding: 0;" target="_blank">
+             <img alt="Claudia" class="img-responsive m-x-auto optimized lazyload" data-pin-nopin="true" data-src="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_claudia.jpg" data-srcset="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_claudia.jpg" height="212" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAKSURBVHicY2AAAAACAAFIr6RxAAAAAElFTkSuQmCC" style="margin-bottom: -3px;width: 100%;height: 100%;" width="161"/>
+            </a>
+            <p>
+             <span>
+              A partir de R$ 6,90/mês
+             </span>
+            </p>
+            <a href="https://claudia.abril.com.br/ofertas/?origem=sr_ch_ba_claudia&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_claudia">
+             Ver ofertas
+            </a>
+           </div>
+           <div class="col-s-6 col-l-2">
+            <h3>
+             Você S/A
+            </h3>
+            <a href="https://vocesa.abril.com.br/ofertas?origem=sr_ch_ba_vocesa&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_vocesa" rel="noopener" style="padding: 0;" target="_blank">
+             <img alt="Você S/A" class="img-responsive m-x-auto optimized lazyload" data-pin-nopin="true" data-src="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_voce.jpg" data-srcset="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_voce.jpg" height="212" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAKSURBVHicY2AAAAACAAFIr6RxAAAAAElFTkSuQmCC" style="margin-bottom: -3px;width: 100%;height: 100%;" width="161"/>
+            </a>
+            <p>
+             <span>
+              A partir de R$ 6,90/mês
+             </span>
+            </p>
+            <a href="https://vocesa.abril.com.br/ofertas?origem=sr_ch_ba_vocesa&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_vocesa">
+             Ver ofertas
+            </a>
+           </div>
+           <div class="col-s-6 col-l-2">
+            <h3>
+             Veja Saúde
+            </h3>
+            <a href="https://saude.abril.com.br/ofertas/?origem=sr_ch_ba_vejasaude&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_vejasaude" rel="noopener" style="padding: 0;" target="_blank">
+             <img alt="Veja Saúde" class="img-responsive m-x-auto optimized lazyload" data-pin-nopin="true" data-src="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_saude.jpg" data-srcset="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_saude.jpg" height="212" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAKSURBVHicY2AAAAACAAFIr6RxAAAAAElFTkSuQmCC" style="margin-bottom: -3px;width: 100%;height: 100%;" width="161"/>
+            </a>
+            <p>
+             <span>
+              A partir de R$ 6,90/mês
+             </span>
+            </p>
+            <a href="https://saude.abril.com.br/ofertas/?origem=sr_ch_ba_vejasaude&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_vejasaude">
+             Ver ofertas
+            </a>
+           </div>
+           <div class="col-s-6 col-l-2">
+            <h3>
+             Veja
+            </h3>
+            <a href="https://veja.abril.com.br/ofertas?origem=sr_ch_ba_veja&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_veja" rel="noopener" style="padding: 0;" target="_blank">
+             <img alt="Veja" class="img-responsive m-x-auto optimized lazyload" data-pin-nopin="true" data-src="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_veja.jpg" data-srcset="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_veja.jpg" height="212" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAKSURBVHicY2AAAAACAAFIr6RxAAAAAElFTkSuQmCC" style="margin-bottom: -3px;width: 100%;height: 100%;" width="161"/>
+            </a>
+            <p>
+             <span>
+              A partir de R$ 19,90/mês
+             </span>
+            </p>
+            <a href="https://veja.abril.com.br/ofertas?origem=sr_ch_ba_veja&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_veja">
+             Ver ofertas
+            </a>
+           </div>
+           <div class="col-s-6 col-l-2">
+            <h3>
+             Superinteressante
+            </h3>
+            <a href="https://super.abril.com.br/ofertas?origem=sr_ch_ba_super&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_super" rel="noopener" style="padding: 0;" target="_blank">
+             <img alt="Superinteressante" class="img-responsive m-x-auto optimized lazyload" data-pin-nopin="true" data-src="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_super.jpg" data-srcset="https://www.assine.abril.com.br/imagem/AssineAbril/novo/capa1n_super.jpg" height="212" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAKSURBVHicY2AAAAACAAFIr6RxAAAAAElFTkSuQmCC" style="margin-bottom: -3px;width: 100%;height: 100%;" width="161"/>
+            </a>
+            <p>
+             <span>
+              A partir de R$ 6,90/mês
+             </span>
+            </p>
+            <a href="https://super.abril.com.br/ofertas?origem=sr_ch_ba_super&amp;utm_source=sites&amp;utm_medium=sr&amp;utm_campaign=sr_ch_ba_super">
+             Ver ofertas
+            </a>
+           </div>
+          </div>
+          <!-- monta url assine -->
+          <!-- fim -->
+          <p>
+           Leia também no
+           <a href="https://www.goread.com.br/?utm_campaign=&amp;utm_medium=editorial&amp;utm_source=sites-parceiros">
+            <img alt="GoRead" aria-label="Logo Veja" class="lazyload" data-src="https://capricho.abril.com.br/wp-content/themes/abril-master2/assets/img/logo_goread.svg" height="17" width="85"/>
+           </a>
+          </p>
+         </div>
+        </section>
+       </div>
+      </section>
+      <footer>
+       <div class="f-social">
+        <div class="container">
+         <svg height="61.036" viewbox="0 0 171.635 61.036" width="171.635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <defs>
+           <clippath id="clip-path">
+            <path clip-rule="evenodd" d="M102.237-141.022a3.163,3.163,0,0,1-.583.415Zm62.622,5.25-.059-.031-.061-.028a12.678,12.678,0,0,0-9.1-.3l-.129.043-.186.076a16.883,16.883,0,0,0-4.719,3.047,5.464,5.464,0,0,0-.785-1.28,5.522,5.522,0,0,0-4-1.964h-.051l-4.89,0a5.307,5.307,0,0,0-2.6.72c-1.335-4.869-5.467-12.141-18.275-9.637a37.087,37.087,0,0,0-8.981,3.25l-1.835.918c-.174.09-.335.17-.5.256,0-.1.026-.2.026-.3a7.9,7.9,0,0,0-.267-2.042,8.547,8.547,0,0,0-4.24-5.212,9.283,9.283,0,0,0-11.259,1.917l.1-.081a9.046,9.046,0,0,0-2.509,6.373,10.807,10.807,0,0,0,.105,1.479c0,.006,0,.008,0,.015,0-.017-.08-.79-.08-.79s.119,1.092.12,1.13l.022.089a13.054,13.054,0,0,0,.693,2.314,9.257,9.257,0,0,0-1.469-.2l-.059,0H77.644a5.519,5.519,0,0,0-3.763,1.57,11.253,11.253,0,0,0-5.309-1.76l-.059,0H56.283a5.62,5.62,0,0,0-5.043,3.42l-.027.064c-.028-.189-.048-.328-.057-.4-.45-4.2-3.073-4.826-4.6-4.826a4.742,4.742,0,0,0-2.133.491c.009-.146.044-.283.044-.431a6.982,6.982,0,0,0-4.186-6.416l.005-.011-.028-.013c-.811-.409-7.3-3.471-16.953-2.154a31.9,31.9,0,0,0-5.029,1.356c-7.3,2.638-13.167,9.376-15.32,17.6a26.648,26.648,0,0,0-.953,6.5c0,.007-.007.674-.007.674,0,9.358,4.347,15.052,8.007,18.188a19.358,19.358,0,0,0,9.075,4.184l.072.015,1.4.232.11.014.708.084.039,0a19.846,19.846,0,0,0,4.319-.1l.123-.016.159-.03.11-.023c8.154-1.606,12.8-8.045,14.031-9.98.5-.788.878-1.4,1.176-1.9.478,2.951,1.089,6.725,1.089,6.725l.041.21a4.693,4.693,0,0,0,4.854,4.193l9.89.026a5.561,5.561,0,0,0,3.507-1.078,5.832,5.832,0,0,0,2.266-4.082l.837-6.307a20.227,20.227,0,0,0,8.341-2.032c-.6,4.379-1.107,8.045-1.107,8.045a5.543,5.543,0,0,0-.046.721,4.868,4.868,0,0,0,.86,2.848,5.207,5.207,0,0,0,4.425,2.083l2.237-.01h.153a6.105,6.105,0,0,0,3.443-1.108,5.9,5.9,0,0,0,2.219-4.047c0,.006.186-1.4.4-3.018.459.321.9.649,1.307.987l.1.083.161.116c1.213.837,2.655,1.959,4.433,3.446a56.028,56.028,0,0,0,28.912,12.162c10.61,1.217,20.713-.86,28.816-5.86a5.357,5.357,0,0,0,.807.417,5.434,5.434,0,0,0,4.191-.04,5.445,5.445,0,0,0,2.94-3c.032-.082.057-.165.085-.248a14.313,14.313,0,0,0,3.907-.6l.215-.063.156-.064c4.494-1.836,10.146-6.324,11.55-17.283l.011-.1.091-.719a31.782,31.782,0,0,0,.215-3.608c0-9.379-4.729-13.312-7.776-14.871Z" data-name="Path 42" fill="none" id="Path_42" transform="translate(-2 149.392)">
+            </path>
+           </clippath>
+           <clippath id="clip-path-2">
+            <path clip-rule="evenodd" d="M144.07-106.8H131.927a1.574,1.574,0,0,0-1.314.933l-.523,1.257c-.215.514.026.932.539.932h1.351a.866.866,0,0,1,.73.873l-3.378,24.54s-.359,1.064,1.249,1.064,2.306-.007,2.306-.007,1.49.24,1.73-1.634c.095-.741,1.2-9.015,1.2-9.015.118-.591.476-.72.687-.742l.151,0,.007,0v0c5.7-.036,12.7-.429,13.627-8.981C151.259-106.538,144.07-106.8,144.07-106.8Zm.349,9.61c-.755,6.964-5.835,7.074-7.631,6.957a.883.883,0,0,1-.585-.814l1.778-13.166a1.631,1.631,0,0,1,1.3-.913c.089-.015-.023.034.065,0,2.057-.016,5.772,1.525,5.075,7.937Z" data-name="Path 45" fill="#d5534d" id="Path_45" transform="translate(-129.297 106.801)">
+            </path>
+           </clippath>
+           <clippath id="clip-path-3">
+            <path clip-rule="evenodd" d="M230.577-133.131c0,.026.011.053.016.079s.006.074.013.112l.012.012c.72,3.544,3.078,6.185,11.691,4.5,5-.978,9.022-2.853,14.09-3.844.454-.089.916-.158,1.384-.213,3.633-.2,7.846.673,8.1,6.4l.013.347a22.052,22.052,0,0,1-.318,3.363c.01.059-3.363,24.721-3.363,24.721s-.359,1.064,1.249,1.064,2.307-.007,2.307-.007,1.49.24,1.73-1.633c.078-.609.834-6.3,1.1-8.311l-.019-.012s.184-1.4.449-3.415c.142-.349.351-.782.939-.782h5.278a.711.711,0,0,1,.674.769v0l-1.7,12.324s-.36,1.064,1.249,1.064,2.306-.007,2.306-.007,1.49.24,1.73-1.633c.079-.609.834-6.3,1.1-8.311l-.018-.012s.211-1.608.507-3.855c0-.009,0-.018,0-.027l.4-2.969c.588-4.438,1.276-9.591,1.452-10.7.321-2.034-1.313-2.084-1.313-2.084v0h-4.817a1.574,1.574,0,0,0-1.315.933L274.986-124c-.215.514.028.932.539.932h1.351a.867.867,0,0,1,.731.873l-1.177,8.55-.038.156a1.175,1.175,0,0,1-1.052.818H270.3v0a.82.82,0,0,1-.813-.768c.3-2.227.613-4.7.863-6.759,1.055-5.683.009-8.021.078-7.872-1.733-7.016-7.155-8.394-13.711-7.112-6.2,1.213-9.065,4.714-15.468,5.966-6.349,1.241-9.209-.725-9.947-3.931h0a5.3,5.3,0,0,1,1.5-4.4,3.71,3.71,0,0,1,1.411-.71c.022-.006.04-.008.063-.014q.189-.049.359-.078a2.647,2.647,0,0,1,1.514.122,1.058,1.058,0,0,1,.345.215s.005,0,.006.006.021.022.033.032a1.058,1.058,0,0,1,.233.386,1.052,1.052,0,0,1,.061.344,1.041,1.041,0,0,1-.621.979l-.023.018a2.725,2.725,0,0,0-1.4,2.382,2.727,2.727,0,0,0,2.727,2.727A2.717,2.717,0,0,0,239.5-132l.009,0s.031-.036.081-.1a2.723,2.723,0,0,0,.359-.541c.705-1.215,1.624-4.16-1.816-6.14a5.188,5.188,0,0,0-6.124,1.109,5.262,5.262,0,0,0-1.426,4.539h-.006" data-name="Path 47" fill="#d5534d" id="Path_47" transform="translate(-230.522 139.352)">
+            </path>
+           </clippath>
+           <clippath id="clip-path-4">
+            <path clip-rule="evenodd" d="M377.535-107.284a8.79,8.79,0,0,0-6.092-.128c-4.061,1.75-7.779,5.731-8.833,13.957h.006c-.035.252-.072.5-.1.768-1,8.729,1.955,12.854,5.774,14.613l0,0a8.724,8.724,0,0,0,2.688.473,10.472,10.472,0,0,0,2.776-.432v0c4.154-1.7,8-5.671,9.072-14.058h-.006c.035-.252.071-.5.1-.766C383.886-101.291,381.165-105.427,377.535-107.284Zm.049,14.837c-.172,1.139-.393,2.235-.651,3.273-1.256,5.266-3.522,9.015-5.6,8.976a1.758,1.758,0,0,1-.351-.013c-2.565-.388-3.767-6.5-2.686-13.641s4.037-12.623,6.6-12.235,3.767,6.5,2.685,13.64Z" data-name="Path 49" fill="#d5534d" id="Path_49" transform="translate(-362.319 107.907)">
+            </path>
+           </clippath>
+           <clippath id="clip-path-5">
+            <path clip-rule="evenodd" d="M260-75.256l-.033-.057a1.611,1.611,0,0,0-.259-.4c-.487-.557-1.584-1.311-3.311-.207-.116.075-.228.154-.339.237a.168.168,0,0,0,.005-.017,38.262,38.262,0,0,1-9.46,4.543h0c-12.929,3.616-26.183-.1-36.353-6.049,0,0,0-.013.007-.018-.47-.257-.945-.539-1.413-.832a2.824,2.824,0,0,0,.123-.539c.078-.609.834-6.3,1.1-8.311l-.018-.012s.211-1.608.507-3.855l.4-3c.588-4.438,1.276-9.591,1.452-10.7.321-2.034-1.313-2.084-1.313-2.084v0h-4.817a1.575,1.575,0,0,0-1.315.933l-.523,1.257c-.215.514.027.932.539.932h1.351a.867.867,0,0,1,.731.873l-2.921,21.21c-.452-.354-.9-.709-1.327-1.068a68.011,68.011,0,0,0-7.951-6.061c4.136-.641,7.846-2.6,8.5-8.665.972-8.957-6.217-9.22-6.217-9.22H185.007a1.574,1.574,0,0,0-1.314.933l-.523,1.257c-.215.514.026.933.539.933h1.35a.865.865,0,0,1,.731.873l-3.378,24.54s-.36,1.065,1.249,1.065,2.306-.008,2.306-.008,1.49.24,1.73-1.634c.085-.67.993-7.494,1.166-8.8l.252.013a29.315,29.315,0,0,1,6.87,4.158c1.252.864,2.772,2.037,4.708,3.657,13.178,11.027,38.053,17.319,55.506,4.286a1.2,1.2,0,0,1,.208-.124.6.6,0,0,1,.725.206.552.552,0,0,1,.1.376l.006.015a1.443,1.443,0,0,0,.9,1.31,1.442,1.442,0,0,0,1.878-.8,1.437,1.437,0,0,0-.03-1.145ZM189.867-89.8a.88.88,0,0,1-.584-.813l1.778-13.166a1.628,1.628,0,0,1,1.3-.913c.088-.015-.023.034.065,0,2.057-.017,5.772,1.525,5.075,7.937-.755,6.963-5.834,7.074-7.631,6.957Z" data-name="Path 51" fill="#d5534d" id="Path_51" transform="translate(-182.377 106.562)">
+            </path>
+           </clippath>
+           <clippath id="clip-path-6">
+            <path clip-rule="evenodd" d="M278.748-106.088l-.044-.029v0l-.094-.053h0a11.358,11.358,0,0,0-5.566-1.356,6.747,6.747,0,0,0-1.795.191c-5.29.718-11.19,4.091-12.52,14.417h.006c-.034.242-.069.485-.1.737-1.355,11.86,5.129,14.886,10.8,15.133a.788.788,0,0,0,.122.013l.082,0,.1,0v-.009c.874-.042,3.933-.232,5.674-1.763.317-.292,1.83-2.256.811-2.511a3.632,3.632,0,0,0-1.1-.11,1.648,1.648,0,0,0-1.4.714A3.816,3.816,0,0,1,272.5-79.59a1.32,1.32,0,0,1-.156.1l-.005,0c-.094.037-.188.074-.283.105a4.831,4.831,0,0,1-2.323.212c-4.257-.691-6.73-7.269-5.525-14.692s5.632-12.88,9.889-12.19a4.592,4.592,0,0,1,1.29.415h0a.875.875,0,0,1,.4.822c0,.1,0,.213,0,.332h.009c0,.009,0,.017,0,.025a1.928,1.928,0,0,0,1.921,1.936,1.928,1.928,0,0,0,1.921-1.936,1.934,1.934,0,0,0-.886-1.627" data-name="Path 53" fill="#d5534d" id="Path_53" transform="translate(-258.453 107.53)">
+            </path>
+           </clippath>
+           <clippath id="clip-path-7">
+            <path clip-rule="evenodd" d="M55.344-94.558c-.224-1.476-4.8-29.392-4.8-29.392s-.062-.4-.382-.4c-.23,0-.3.074-.543.323,0,0-3.433,3.51-3.628,3.748a6.047,6.047,0,0,0-.745,1.366h0s-1.719,4.679-4.348,11.739c-.811,2.1-3.893,10.955-10.62,13.224a11.056,11.056,0,0,1-6.527.057c-6.86-2.333-9.559-13.005-6.181-22.935,3.054-8.975,10.126-15.254,16.522-14.582h0a12.469,12.469,0,0,1,1.508.235h0a4.035,4.035,0,0,1,2.214,1.041h.009a6.55,6.55,0,0,1,.759,2.22c.007,0,.014.006.021.011a2.692,2.692,0,0,0,2.678,2.428,2.693,2.693,0,0,0,2.692-2.692,2.691,2.691,0,0,0-1.71-2.5,1.144,1.144,0,0,0-.108-.052s-5.837-2.978-14.713-1.742a29.609,29.609,0,0,0-4.049,1.122c-5.944,2.133-10.924,7.606-12.806,14.8a22.483,22.483,0,0,0-.816,5.53c-.159,7.142,2.638,12.279,6.587,15.643a15.261,15.261,0,0,0,7.218,3.245c.4.085.808.147,1.211.2.217.03.435.057.653.078l.02,0a15.975,15.975,0,0,0,3.381-.091l.112-.023c5.812-1.142,9.637-5.463,11.335-8.129a43.857,43.857,0,0,0,2.385-4.1,1.415,1.415,0,0,1,1.544-.921h2.686c1.209,0,1.365.646,1.469,1.283l1.749,10.23a1.1,1.1,0,0,0,1.173.79h3.259C55.1-92.8,55.571-93.064,55.344-94.558ZM46.869-107.02H44.834c-1.2,0-.823-1.131-.823-1.131.22-.684,2.1-6.849,2.283-7.466l.2.042,1.128,7.418c.257,1.181-.75,1.137-.75,1.137Z" data-name="Path 55" fill="#d5534d" id="Path_55" transform="translate(-9.767 132.765)">
+            </path>
+           </clippath>
+          </defs>
+          <g data-name="Group 2260" id="Group_2260" transform="translate(0.5 0.512)">
+           <g clip-path="url(#clip-path)" data-name="Group 31" id="Group_31" transform="translate(0 0)">
+            <path d="M-3-90.348H171.678v-64.043H-3Z" data-name="Path 41" fill="none" id="Path_41" transform="translate(0.978 152.37)">
+            </path>
+           </g>
+           <g data-name="Group 32" id="Group_32" transform="translate(0 0)">
+            <path d="M100.237,8.37a3.167,3.167,0,0,1-.583.415Zm62.622,5.25-.059-.031-.061-.028a12.678,12.678,0,0,0-9.1-.3l-.129.043-.186.076a16.884,16.884,0,0,0-4.719,3.047,5.4,5.4,0,0,0-4.787-3.244h-.051l-4.89,0a5.307,5.307,0,0,0-2.6.72c-1.335-4.869-5.467-12.141-18.275-9.637a37.089,37.089,0,0,0-8.981,3.25l-1.835.918c-.174.09-.335.17-.5.256,0-.1.026-.2.026-.3a7.9,7.9,0,0,0-.267-2.042,8.547,8.547,0,0,0-4.24-5.212,9.283,9.283,0,0,0-11.26,1.917l.1-.081a9.046,9.046,0,0,0-2.509,6.373,10.812,10.812,0,0,0,.105,1.479c0,.006,0,.008,0,.015,0-.017-.08-.79-.08-.79s.119,1.092.12,1.13l.022.089a13.052,13.052,0,0,0,.693,2.314,9.26,9.26,0,0,0-1.469-.2l-.059,0H75.644a5.519,5.519,0,0,0-3.763,1.57,11.253,11.253,0,0,0-5.309-1.76l-.059,0H54.283A5.62,5.62,0,0,0,49.24,16.6l-.027.064c-.028-.189-.048-.328-.057-.4-.45-4.2-3.073-4.826-4.6-4.826a4.742,4.742,0,0,0-2.133.491c.009-.146.044-.283.044-.431a6.982,6.982,0,0,0-4.186-6.416l.005-.011-.028-.013c-.811-.409-7.3-3.471-16.953-2.154a31.9,31.9,0,0,0-5.029,1.356C8.979,6.9,3.113,13.641.961,21.862a26.647,26.647,0,0,0-.953,6.5c0,.007-.007.674-.007.674C0,38.39,4.347,44.085,8.007,47.221A19.358,19.358,0,0,0,17.082,51.4l.072.015,1.4.232.11.014.708.084.039,0a19.846,19.846,0,0,0,4.319-.1l.123-.016.159-.03.11-.023c8.154-1.606,12.8-8.045,14.031-9.98.5-.788.878-1.4,1.176-1.9.478,2.951,1.089,6.724,1.089,6.724l.041.21a4.693,4.693,0,0,0,4.854,4.193l9.89.026a5.561,5.561,0,0,0,3.507-1.078,5.832,5.832,0,0,0,2.266-4.082l.837-6.307a20.227,20.227,0,0,0,8.341-2.032c-.6,4.379-1.107,8.045-1.107,8.045A5.542,5.542,0,0,0,69,46.12a4.868,4.868,0,0,0,.86,2.848,5.207,5.207,0,0,0,4.425,2.083l2.237-.01h.153a6.105,6.105,0,0,0,3.443-1.108,5.9,5.9,0,0,0,2.219-4.047c0,.006.186-1.4.4-3.018.459.321.9.649,1.307.987l.1.083.161.116c1.213.837,2.655,1.959,4.433,3.446A56.028,56.028,0,0,0,117.652,59.66c10.61,1.217,20.713-.86,28.816-5.86a5.356,5.356,0,0,0,.807.417,5.481,5.481,0,0,0,7.131-3.036c.032-.082.057-.165.085-.248a14.313,14.313,0,0,0,3.907-.6l.215-.063.156-.064c4.494-1.836,10.146-6.324,11.55-17.283l.011-.1.091-.719a31.789,31.789,0,0,0,.215-3.608C170.635,19.113,165.906,15.179,162.859,13.62Z" data-name="Path 43" fill="none" id="Path_43" stroke="#d5534d" stroke-width="1" transform="translate(0 0)">
+            </path>
+           </g>
+           <g data-name="Group 2261" id="Group_2261" transform="translate(3.14 4.059)">
+            <g clip-path="url(#clip-path-2)" data-name="Group 33" id="Group_33" transform="translate(48.33 13.161)">
+             <path d="M124.3-78.154H149.42V-111.8H124.3Z" data-name="Path 44" fill="#d5534d" id="Path_44" transform="translate(-126.319 109.779)">
+             </path>
+            </g>
+            <g clip-path="url(#clip-path-3)" data-name="Group 34" id="Group_34" transform="translate(89.259)">
+             <path d="M225.521-97.544h56.516v-46.808H225.521Z" data-name="Path 46" fill="#d5534d" id="Path_46" transform="translate(-227.543 142.33)">
+             </path>
+            </g>
+            <g clip-path="url(#clip-path-4)" data-name="Group 35" id="Group_35" transform="translate(142.549 12.714)">
+             <path d="M357.319-78.56h24.843v-34.347H357.319Z" data-name="Path 48" fill="#d5534d" id="Path_48" transform="translate(-359.341 110.885)">
+             </path>
+            </g>
+            <g clip-path="url(#clip-path-5)" data-name="Group 36" id="Group_36" transform="translate(69.792 13.258)">
+             <path d="M177.377-68.749h81.794v-42.812H177.377Z" data-name="Path 50" fill="#d5534d" id="Path_50" transform="translate(-179.399 109.54)">
+             </path>
+            </g>
+            <g clip-path="url(#clip-path-6)" data-name="Group 37" id="Group_37" transform="translate(100.552 12.867)">
+             <path d="M253.453-78h25.225V-112.53H253.453Z" data-name="Path 52" fill="#d5534d" id="Path_52" transform="translate(-255.474 110.508)">
+             </path>
+            </g>
+            <g clip-path="url(#clip-path-7)" data-name="Group 38" id="Group_38" transform="translate(0 2.663)">
+             <path d="M4.767-92.748H54.446v-45.017H4.767Z" data-name="Path 54" fill="#d5534d" id="Path_54" transform="translate(-6.789 135.744)">
+             </path>
+            </g>
+           </g>
+          </g>
+         </svg>
+         <ul>
+          <li>
+           Siga
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11" id="menu-item-11">
+           <a class="menu-image-title-after" href="https://www.facebook.com/capricho/" rel="noopener">
+            <span class="menu-image-title">
+             Facebook
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13" id="menu-item-13">
+           <a class="menu-image-title-after" href="https://twitter.com/capricho" rel="noopener">
+            <span class="menu-image-title">
+             Twitter
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14" id="menu-item-14">
+           <a class="menu-image-title-after" href="https://instagram.com/capricho" rel="noopener">
+            <span class="menu-image-title">
+             Instagram
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100653" id="menu-item-100653">
+           <a class="menu-image-title-after" href="https://www.youtube.com/user/capricho" rel="noopener">
+            <span class="menu-image-title">
+             Youtube
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100652" id="menu-item-100652">
+           <a class="menu-image-title-after" href="https://pinterest.com/capricho/" rel="noopener">
+            <span class="menu-image-title">
+             Pinterest
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="f-links">
+        <div class="container">
+         <div class="row">
+          <div class="col-s-12 col-l-2">
+           <svg viewbox="0 0 118.32 36.309" xmlns="http://www.w3.org/2000/svg">
+            <g data-name="Group 17" fill="#a0a0a0" transform="translate(-.006 -.111)">
+             <path d="M21.938,36.009H10.021a17.151,17.151,0,0,0,2.9-9.2c0-3.317-.219-5.084-1.573-7.441a6.326,6.326,0,0,1-5.775,3.261,9.628,9.628,0,0,1-4.262-1,10.622,10.622,0,0,1,2.3-4.006A9.035,9.035,0,0,1,.055,14.645L0,14.581a11.981,11.981,0,0,1,3.485-2.313A9.509,9.509,0,0,1,.81,7.426l.2-.056A13.7,13.7,0,0,1,4.63,6.7a7.1,7.1,0,0,1,1.817.24c-.5-1.669-.694-3.667,1.3-6.945,2.554,1.358,3.889,2.687,4.464,4.442A10.007,10.007,0,0,1,15.066,2a7.98,7.98,0,0,1,1.5,2.693c1.38-1.81,2.683-2.358,4.841-3.265,1.017,2.678,1.17,4.46.547,6.355a6.416,6.416,0,0,1,.834.814c1.218-2.92,4.638-3.762,6.567-4,.733,3.343.323,5.5-1.415,7.448a7.575,7.575,0,0,1,4.777,2.94,7.286,7.286,0,0,1-4.784,3.045,9.313,9.313,0,0,1,1.494,4.029,9.356,9.356,0,0,1-3.153.553,6.924,6.924,0,0,1-3.291-.759A4.849,4.849,0,0,1,20.7,19.2c-1.5,2.544-1.664,4.353-1.664,7.6a17.157,17.157,0,0,0,2.9,9.2ZM7.994,17.823A4.2,4.2,0,0,0,3.8,20.586a7.029,7.029,0,0,0,1.785.244,4.623,4.623,0,0,0,4.344-2.72A7.01,7.01,0,0,0,7.994,17.823Zm15.02-.155a5.369,5.369,0,0,0-.85.068A3.675,3.675,0,0,0,26.03,20.8a5.523,5.523,0,0,0,1.094-.112C26.974,19.19,25.515,17.668,23.014,17.668Zm-4.935-3.5h0a4.34,4.34,0,0,0-1.71,3.068,4,4,0,0,0,1.062,3.107,3.982,3.982,0,0,0,1.614-2.721,4.508,4.508,0,0,0-.966-3.453ZM16.39,12.295a5.132,5.132,0,0,0-3.548,1.289,5.075,5.075,0,0,0-1.553,3.047c.107.009.224.014.345.014A5.028,5.028,0,0,0,16.553,12.3Zm10.356,1.483a4.862,4.862,0,0,0-3.529,1.312,4.872,4.872,0,0,0,3.5,1.2,4.151,4.151,0,0,0,3.328-1.263A4.437,4.437,0,0,0,26.746,13.778Zm-21.274.006a4.146,4.146,0,0,0-2.779,1,4.28,4.28,0,0,0,3.225,1.453,5.071,5.071,0,0,0,2.948-1A4.465,4.465,0,0,0,5.473,13.784ZM21.081,9.455a4.434,4.434,0,0,0,.016,6.364A4.866,4.866,0,0,0,22.32,12.3,4.079,4.079,0,0,0,21.081,9.455ZM4.565,8.561a8.323,8.323,0,0,0-1.387.123c.977,2.464,3.179,3.822,6.2,3.822.3,0,.605-.013.917-.04C8.993,9.876,7.065,8.561,4.565,8.561ZM27.8,6.79a4.535,4.535,0,0,0-2.9,1.822,4.638,4.638,0,0,0-.857,3.5A4.212,4.212,0,0,0,27,10.312,4.707,4.707,0,0,0,27.8,6.79ZM14.577,4.605h0a5.178,5.178,0,0,0-1.3,6.882,5.034,5.034,0,0,0,1.3-6.882Zm5.711-.713a5.818,5.818,0,0,0-2.852,3.023,4.837,4.837,0,0,0-.065,3.454,5.079,5.079,0,0,0,2.564-2.458A5.657,5.657,0,0,0,20.288,3.892ZM8.474,2.592a5.017,5.017,0,0,0,1.8,6.485A5,5,0,0,0,8.474,2.592Z" data-name="Fill 1" transform="translate(44.629 .112)">
+             </path>
+             <path d="M3.046,14.4H0L5.195,0H9.01l5,14.4-3.156,0L9.817,11.351h-5.7L3.046,14.4Zm4-11.591L4.918,8.958H9.042L7.047,2.813Z" data-name="Fill 2" transform="translate(75.194 21.716)">
+             </path>
+             <path d="M2.658,1.988C3.3.412,5.016-.037,6.51,0V2.758C3.156,2.285,2.965,4.2,2.965,5.321v4.817H0V.124H2.658V1.988" data-name="Fill 3" transform="translate(102.15 25.983)">
+             </path>
+             <path d="M2.993,14.4H0V4.39H2.993V14.4Zm0-12.081H0V0H2.993V2.322Z" data-name="Fill 4" transform="translate(110.11 21.716)">
+             </path>
+             <path d="M0,14.4H2.988V0H0Z" data-name="Fill 5" transform="translate(115.34 21.716)">
+             </path>
+             <path d="M6.075,14.7A3.319,3.319,0,0,1,3,12.985V14.4H0V0H3V5.544A3.4,3.4,0,0,1,5.693,4.132,4.217,4.217,0,0,1,9.148,5.753,5.924,5.924,0,0,1,10.292,9.4a6.455,6.455,0,0,1-1.011,3.618A3.737,3.737,0,0,1,6.075,14.7ZM5.238,6.085C3.891,6.085,3.02,7.39,3.02,9.411c0,1.927.932,3.326,2.217,3.326,1.192,0,2.125-1.461,2.125-3.326C7.363,7.421,6.509,6.085,5.238,6.085Z" data-name="Fill 6" transform="translate(90.407 21.716)">
+             </path>
+             <path d="M41.026,10.35c-2.934,0-4.549-1.793-4.549-5.049a5.436,5.436,0,0,1,1.439-3.892A4.759,4.759,0,0,1,41.367,0c2.892,0,4.551,1.835,4.551,5.033C45.918,8.164,43.906,10.35,41.026,10.35Zm.164-8.613c-1.321,0-2.654,1.038-2.654,3.356,0,2.26.932,3.5,2.625,3.5,1.342,0,2.7-1.056,2.7-3.415C43.857,2.961,42.91,1.737,41.19,1.737ZM22.782,10.35c-2.64,0-3.869-1.156-3.869-3.639V.163h1.927v6.43c0,1.509.621,2.153,2.075,2.153,1.515,0,2.106-.654,2.106-2.331V.163h1.912V6.3C26.933,8.948,25.5,10.35,22.782,10.35ZM5.054,10.334C1.889,10.334,0,8.491,0,5.4A5.291,5.291,0,0,1,1.5,1.53,5.687,5.687,0,0,1,5.6.016a10.216,10.216,0,0,1,2.83.429l-.3,1.8a7.388,7.388,0,0,0-2.653-.5,3.383,3.383,0,0,0-2.436.9A3.523,3.523,0,0,0,2.09,5.227c0,2.142,1.161,3.37,3.186,3.37a4.27,4.27,0,0,0,1.275-.179V4.93H8.479V9.711A9.373,9.373,0,0,1,5.054,10.334Zm7.382-.147H10.509V.163C11.253.121,12.14.1,13.385.1c2.444,0,3.632.923,3.632,2.821a2.8,2.8,0,0,1-2.55,2.792c.2.269.406.543.6.808l.215.292,2.4,3.367-2.385,0L12.51,6.044h-.074v4.142Zm.755-8.509a5.381,5.381,0,0,0-.755.045v2.9c.133.014.4.03.7.03,1.151,0,1.867-.586,1.867-1.53C15,2.149,14.409,1.678,13.192,1.678Zm17.95,8.508H29.215V.163C29.976.122,30.828.1,31.9.1c2.421,0,3.81,1.131,3.81,3.1,0,2.047-1.61,3.476-3.914,3.476a5.035,5.035,0,0,1-.652-.031v3.533Zm.682-8.508c-.236,0-.459,0-.682.016v3.34a3.774,3.774,0,0,0,.564.045,1.786,1.786,0,0,0,2-1.753C33.707,2.248,33.055,1.678,31.823,1.678Z" data-name="Fill 7" transform="translate(.006 25.874)">
+             </path>
+            </g>
+           </svg>
+          </div>
+          <!-- Menu das marcas -->
+          <nav class="col-s-12 col-l-6">
+           <div class="menu-sites-abril-container">
+            <ul class="menu" id="menu-sites-abril">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445335" id="menu-item-445335">
+              <a class="menu-image-title-after" href="https://bebe.abril.com.br/">
+               <span class="menu-image-title">
+                Bebê.com
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445336" id="menu-item-445336">
+              <a class="menu-image-title-after" href="https://boaforma.abril.com.br/">
+               <span class="menu-image-title">
+                Boa Forma
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256996" id="menu-item-256996">
+              <a class="menu-image-title-after" href="https://casacor.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                CASACOR
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256998" id="menu-item-256998">
+              <a class="menu-image-title-after" href="https://claudia.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                Claudia
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-471659" id="menu-item-471659">
+              <a class="menu-image-title-after" href="https://elasticaoficial.com.br/">
+               <span class="menu-image-title">
+                elástica
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497596" id="menu-item-497596">
+              <a class="menu-image-title-after" href="https://especiallistas.abril.com.br/">
+               <span class="menu-image-title">
+                Especiallistas
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257005" id="menu-item-257005">
+              <a class="menu-image-title-after" href="https://guiadoestudante.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                Guia do Estudante
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257009" id="menu-item-257009">
+              <a class="menu-image-title-after" href="https://veja.abril.com.br/placar/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                Placar
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257010" id="menu-item-257010">
+              <a class="menu-image-title-after" href="https://quatrorodas.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                Quatro Rodas
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257013" id="menu-item-257013">
+              <a class="menu-image-title-after" href="https://super.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                Superinteressante
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257016" id="menu-item-257016">
+              <a class="menu-image-title-after" href="https://veja.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                VEJA
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445337" id="menu-item-445337">
+              <a class="menu-image-title-after" href="https://vejario.abril.com.br/">
+               <span class="menu-image-title">
+                VEJA Rio
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257020" id="menu-item-257020">
+              <a class="menu-image-title-after" href="https://vejasp.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                VEJA São Paulo
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257012" id="menu-item-257012">
+              <a class="menu-image-title-after" href="https://saude.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                VEJA Saúde
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257021" id="menu-item-257021">
+              <a class="menu-image-title-after" href="https://viagemeturismo.abril.com.br/" rel="noopener" target="_blank">
+               <span class="menu-image-title">
+                Viagem e Turismo
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-508701" id="menu-item-508701">
+              <a class="menu-image-title-after" href="https://vocerh.abril.com.br/">
+               <span class="menu-image-title">
+                Você RH
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-441386" id="menu-item-441386">
+              <a class="menu-image-title-after" href="https://vocesa.abril.com.br/">
+               <span class="menu-image-title">
+                Você S/A
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </nav>
+          <!-- Links do rodapé -->
+          <nav class="col-s-12 col-l-4">
+           <div class="menu-rodape-container">
+            <ul class="menu" id="menu-rodape">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475344" id="menu-item-475344">
+              <a class="menu-image-title-after" href="https://grupoabril.com.br/">
+               <span class="menu-image-title">
+                Grupo Abril
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475346" id="menu-item-475346">
+              <a class="menu-image-title-after" href="https://capricho.abril.com.br/politica-de-privacidade/">
+               <span class="menu-image-title">
+                Política de Privacidade de Dados
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475345" id="menu-item-475345">
+              <a class="menu-image-title-after" href="https://capricho.abril.com.br/como-desativar-adblock/">
+               <span class="menu-image-title">
+                Como desativar o AdBlock
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475347" id="menu-item-475347">
+              <a class="menu-image-title-after" href="https://www.sac.abril.com.br/">
+               <span class="menu-image-title">
+                Abril SAC
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475348" id="menu-item-475348">
+              <a class="menu-image-title-after" href="http://publiabril.abril.com.br/?utm_source=abril.Com&amp;utm_medium=referral&amp;utm_campaign=abril.com">
+               <span class="menu-image-title">
+                Anuncie
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </nav>
+          <div class="col-s-12">
+           <nav>
+            <div class="menu-links-de-rodape-container">
+             <ul class="menu" id="menu-links-de-rodape">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445331" id="menu-item-445331">
+               <a class="menu-image-title-after" href="https://grupoabril.com.br/#quem-somos">
+                <span class="menu-image-title">
+                 QUEM SOMOS
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445332" id="menu-item-445332">
+               <a class="menu-image-title-after" href="https://capricho.abril.com.br/fale-conosco/">
+                <span class="menu-image-title">
+                 FALE CONOSCO
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445334" id="menu-item-445334">
+               <a class="menu-image-title-after" href="https://capricho.abril.com.br/termos-de-uso/">
+                <span class="menu-image-title">
+                 TERMOS E CONDIÇÕES
+                </span>
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445333" id="menu-item-445333">
+               <a class="menu-image-title-after" href="https://www.vagas.com.br/empregos/abril-digital">
+                <span class="menu-image-title">
+                 TRABALHE CONOSCO
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </nav>
+           <p>
+            Copyright © Abril Mídia S A. Todos os direitos reservados.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </footer>
+      <div id="abrAD_dhtml">
+      </div>
+      <script type="text/javascript">
+       //<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22infinite-list%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fcapricho.abril.com.br%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22click%22%2C%22wrapper%22%3Afalse%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3Atrue%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22Carregar%20mais%22%2C%22totop%22%3A%22Scroll%20back%20to%20top%22%2C%22currentday%22%3A%2207.12.21%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A1%2C%22history%22%3A%7B%22host%22%3A%22capricho.abril.com.br%22%2C%22path%22%3A%22%5C%2Fhoroscopo%5C%2Fpagina%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22post_type%22%3A%22horoscopo%22%2C%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A%22%22%2C%22author_name%22%3A%22%22%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22paged%22%3A0%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22date_query%22%3A%5B%5B%5D%2C%5B%5D%5D%2C%22posts_per_page%22%3A20%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Afalse%2C%22update_post_term_cache%22%3Atrue%2C%22lazy_load_term_meta%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%2C%22extra%22%3A%7B%22is_tag%22%3Atrue%2C%22is_category%22%3Afalse%2C%22is_admin%22%3Afalse%2C%22is_tax%22%3Afalse%7D%7D%2C%22query_before%22%3A%222021-12-14%2016%3A43%3A29%22%2C%22last_post_date%22%3A%222000-01-01%2019%3A43%3A38%22%2C%22body_class%22%3A%22infinite-scroll%22%2C%22loading_text%22%3A%22Loading%20new%20page%22%2C%22stats%22%3A%22blog%3D177107104%26host%3Dcapricho.abril.com.br%26v%3Dext%26j%3D1%3A9.1%26x_pagetype%3Dinfinite-click-jetpack%22%7D%7D' ) );
+		//]]>
+      </script>
+      <input id="horoscopo_personare_ajax_nonce" name="horoscopo_personare_ajax_nonce" type="hidden" value="ed25303928"/>
+      <input name="_wp_http_referer" type="hidden" value="/horoscopo/"/>
+      <input id="get_access_token_ajax_nonce" name="get_access_token_ajax_nonce" type="hidden" value="6d224a58c4"/>
+      <input name="_wp_http_referer" type="hidden" value="/horoscopo/"/>
+      <script>
+       var ajaxurl = "https:\/\/capricho.abril.com.br\/wp-admin\/admin-ajax.php";
+      </script>
+      <input id="abril_dv_ajax_nonce" name="abril_dv_ajax_nonce" type="hidden" value="a2a1e2adc4"/>
+      <input name="_wp_http_referer" type="hidden" value="/horoscopo/"/>
+      <script type="text/javascript">
+       (function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["custom_js","the-neverending-homepage","https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.6.0\/jquery.min.js","\/assets\/js\/cjs.js","\/js\/vendor\/jquery.lazysizes.min.js","\/assets\/js\/abril_lgpd.js","\/assets\/js\/footer.js","\/assets\/js\/blocks.js","\/assets\/js\/jquery.isinviewport.min.js","\/assets\/js\/our-carousel.js","\/assets\/js\/blocks-listagem.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo-personare\/js\/personare-scripts-front.js","https:\/\/capricho.abril.com.br\/wp-content\/themes\/abril-capricho\/plugins\/capricho-products\/js\/abril-dv-capricho-ch-products.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo-modulo-previsao-home.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo-modulo-sinastria.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/js\/abril-horoscopo-filtros.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-text-wrapper\/abril-text-wrapper-script.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-lista-produtos\/assets\/js\/abril-lista-produtos_events.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-horoscopo\/abril-horoscopo-widget\/js\/abril-horoscopo-widget.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-produtos\/js\/easyzoom.min.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-produtos\/js\/abril-produtos-filtros.min.js","https:\/\/capricho.abril.com.br\/wp-content\/plugins\/abril-plugins\/abril-produtos\/js\/abril-produtos.js","script-img-cls"] );
+				extend( window.infiniteScroll.settings.styles, ["the-neverending-homepage","easyzoom-css","swiper-css","abril-prdutos-css","abril-horoscopo-css","abril-horoscopo-icones-css","abril-horoscopo-coracoes","grid-system","theme-fonts","icons-style","lgpds","home-sections","lists-subhome","pages","child_theme_styles","abril-dv-capricho-ch-products-css","horoscopo-personare-front","style-main","slick-theme-css","slick-css","abril-widget-horoscopo-css","abril-text-wrapper-styles","wp-master-theme-style","jetpack_css","fonts-dm-sans","fonts-spartan"] );
+			})();
+      </script>
+      <span aria-live="assertive" id="infinite-aria">
+      </span>
+      <script async="async" defer="defer" src="https://stats.wp.com/e-202150.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.1',blog:'177107104',post:'0',tz:'-3',srv:'capricho.abril.com.br'} ]);
+	_stq.push([ 'clickTrackerInit', '177107104', '0' ]);
+      </script>
+      <script>
+       var bannerTime = 5000;
+            abrConfSite = {
+            "adsTargets": "editorias=;tags=horoscopo",
+            "abrAdsArea": "escape_capricho\/noticias-sobre"        }
+            if($(window).width() < 991) {
+            abrConfSite.abrAdMap = "https://capricho.abril.com.br/wp-content/themes/abril-master2/js/ads/ads_master_smartphone.json";
+        } else {
+            abrConfSite.abrAdMap = "https://capricho.abril.com.br/wp-content/themes/abril-master2/js/ads/ads_master.json";
+        }
+      </script>
+     </input>
+    </input>
+   </input>
+  </input>
+ </body>
+</html>
